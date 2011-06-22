@@ -1,0 +1,9 @@
+---
+layout: blank
+title: Recent Posts
+---
+<ul>
+	{% for post in site.posts limit:5 %}
+	<li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
+	{% endfor%}
+</ul>

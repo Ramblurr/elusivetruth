@@ -1,0 +1,29 @@
+                    </div>
+                </div>
+                <div class="span-8 column last" id="sidebar">
+                    <div class="sidebox">
+                        <h3>Recent Updates</h3>
+                        <ul>
+                            {% for post in site.posts limit:5 %}
+                            <li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
+                            {% endfor%}
+                            <li><a href="{{ site.base_url }}/archives.html" title="Blog Archive">Archives ...</a></li>
+                        </ul>
+                    </div>
+                    <div class="sidebox">
+                        <h3>New Photos</h3>
+                        <style type="text/css"> 
+                            .flickr_badge_image {margin:0px;display:inline;}
+                            .flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
+                            #flickr_badge_wrapper {width:300px;text-align:left}
+                        </style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=6&display=latest&size=s&layout=x&source=user&user=34552097@N08"></script></div>
+                    </div>
+                </div>
+            </div>
+            <div class="span-24" id="footer">
+        &copy;2011 Casey Link<br />
+        Powered by <a title="jekyll" href="http://jekyllrb.com/">jekyll</a>. Banner by <a href="http://headvoid.deviantart.com/" title="headvoid">headvoid</a>.
+            </div>
+        </div>
+    </body>
+</html>

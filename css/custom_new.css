@@ -1,0 +1,122 @@
+body {
+    background: #252525 url('http://elusivetruth.net/images/bg3.gif') repeat-x top;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    color: #000;
+}
+p { 
+    text-align: left;
+}
+
+a 				{ color: #3E4967; }
+a:hover			{ color: #000; }
+#header {
+    background-image: url('http://elusivetruth.net/images/banner_wide.jpg');
+    background-repeat: no-repeat;
+    margin: 0px;
+    height: 264px;
+    padding: 0px;
+    vertical-align: bottom;
+    text-align: right;
+}
+
+#header h1 {
+    margin: 20px 150px 20px 300px;
+    text-shadow: -3px -3px 0px rgba(18, 9, 41, 0.2);
+    text-decoration: none;
+    line-height: 55px;
+    font-weight: normal;
+    font-size: 50px;
+    font-family: 'Allerta', Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+#header .description {
+    line-height: 1.5em;
+    margin: 0 150px 0 300px;
+    text-align: center;
+    font-size: 16px;
+}
+#header h1, #header .description {
+    padding: 0px;
+    color: white;
+}
+
+#nav {
+    background-image: url('http://elusivetruth.net/images/navmenu2.jpg');
+    height: 40px;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #CCC;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    width: 100%;
+    line-height: 1.5em;
+}
+
+#page {
+    background-color: #fff;
+    overflow: hidden;
+}
+
+#maincontent {
+    margin-right:0px;
+}
+.column { 
+    padding-bottom : 32767px; 
+    margin-bottom : -32767px;
+} 
+#sidebar {
+    background-color: #eee;
+}
+
+#footer {
+    border-top: 4px solid #888;
+    color: #888;
+    font-size: 16px;
+}
+
+#nav ul {
+    margin: 0px 200px 0 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+}
+
+#nav li {
+    font-size: 18px;
+    float: left;
+    padding: 10px;
+}
+
+#nav a {
+    color: #AAA;
+    text-decoration: none;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+#nav a:hover {
+    border-bottom: 3px solid #65B2C6;
+}
+
+.sidebox {
+    padding: 5px;
+}
+.sidebox ul {
+    list-style: none;
+    text-align: left;
+    font-size: 16px;
+}
+
+.sidebox h3 {
+    color: #000;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 6px 8px 3px 0px;
+    margin-bottom: .6em;
+    font-size: 16px;
+    letter-spacing: 0.10em;
+    border-bottom: 1px solid #000;
+}

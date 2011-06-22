@@ -1,0 +1,35 @@
+</div> <!-- /content -->
+    </div> <!-- /maincontent-->
+
+    <div class="column span-3 last" id="sidebar">
+        <ul>
+            <li><h2 class="widgettitle">Recent Posts</h2>
+                <ul>
+                    {% for post in site.posts limit:5 %}
+                    <li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
+                    {% endfor%}
+                    <li><a href="{{ site.base_url }}/archives.html" title="Blog Archive">Archives ...</a></li>
+                </ul>
+            </li>
+            <li><h2 class="widgettitle">Links</h2>
+                <ul>
+                    <li><a href="http://amarok.kde.org/PlanetAmarok" rel="co-worker" title="The best music player ever.">Amarok Dev Blog</a></li>
+
+                </ul>
+            </li>
+        </ul>
+
+</div> <!-- /sidebar -->
+
+
+    </div> <!-- /page -->
+
+<div id="footer">
+        &copy;2011 Casey Link<br />
+        Powered by <a title="jekyll" href="http://jekyllrb.com/">jekyll</a> using customized <a title="Blueprint" href="http://www.fireandknowledge.org/blueprint/">Blueprint</a>. Banner by <a href="http://headvoid.deviantart.com/" title="headvoid">headvoid</a>.
+    </div>
+</div> <!-- /container -->
+</body>
+
+</html>
+
