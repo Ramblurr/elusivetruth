@@ -47,7 +47,6 @@ a:hover			{ color: #000; }
     background-image: url('http://elusivetruth.net/images/navmenu2.jpg');
     height: 40px;
     background-repeat: no-repeat;
-    border-bottom: 1px solid #CCC;
     margin: 0px;
     padding: 0px 0px 0px 0px;
     float: left;
@@ -56,22 +55,25 @@ a:hover			{ color: #000; }
 }
 
 #page {
-    background-color: #fff;
-    overflow: hidden;
+    background: url(../images/col-bg.gif) repeat-y 0 0;
 }
 
 #maincontent {
     margin-right:0px;
+    background: white;
+    border-top: 1px solid #CCC;
 }
 .column { 
     padding-bottom : 32767px; 
     margin-bottom : -32767px;
 } 
 #sidebar {
-    background-color: #eee;
+    min-height: 100%;
+    border-top: 1px solid #CCC;
 }
 
 #footer {
+    width: 945px;
     border-top: 4px solid #888;
     color: #888;
     font-size: 16px;
@@ -108,6 +110,8 @@ a:hover			{ color: #000; }
     list-style: none;
     text-align: left;
     font-size: 16px;
+    margin-left: 0px;
+    padding-left: 1em;
 }
 
 .sidebox h3 {
