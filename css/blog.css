@@ -29,6 +29,7 @@ blockquote {
 
 img             { margin: 0; }
 p img           { float: none; }
+a img:hover { opacity: 0.8; }
 
 #maincontent h2 		{ color: #263C4B/*3B4A25*/; border-bottom: 2px dotted #AAA; margin-bottom: 15px; }
 h2 a 					{ color: #263C4B/*3B4A25*/; text-decoration: none; }
@@ -173,15 +174,23 @@ div.archive h2+p {
 .header-img:hover {
     opacity: 0.8;
 }
+.rounded {
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
 
 .feedburner-email {
 }
 .feedburner-email .email {
     width: 140px;
-    padding: 7px 0 7px 7px;
+    padding: 7px 0 7px 24px;
+    border: none;
+    background: white url(../images/icons/email_16.png) 4px center no-repeat;
     border-color: #EFEFEF #CCC #CCC #EFEFEF;
     border-width: 1px;
     border-style: solid;
+
 }
 
 .feedburner-email .submit {
@@ -286,4 +295,13 @@ button.regular, .buttons a.regular{
     background-color:#6299c5;
     border:1px solid #6299c5;
     color:#fff;
+}
+
+.social-icons {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.social-icons {
+    padding-left: 4px;
 }
