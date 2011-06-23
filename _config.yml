@@ -14,5 +14,10 @@ markdown:    rdiscount
 rdiscount:
   extensions: [smart]
 permalink:   date
+paginate: 3
 
 base_url:  http://elusivetruth.net
+
+# extensions
+# Delimeter to be used to seperate whole post from its preview
+content_delimeter: "<!--END-->"

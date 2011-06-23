@@ -2,23 +2,19 @@
 layout: default
 title: Elusive Truth
 ---
-    {% for post in site.posts limit:5 %}
-    <div class="post">
-                <h2><a href="{{site.base_url}}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ post.title }}">
-                    {{ post.title }}
-                    </a></h2>
-                <p class="post-meta">
-                    <span class="post-dat">{{ post.date | date: '%d %B %Y' }} | </span>
-                    <a class="post-comments" href="{{site.base_url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.uuid }}">Comments</a>
-                </p>
-
-                <div class="entry">
-                    {{ post.content }}
-                </div>
-
-        </div> <!-- /post -->
-
+    {% for post in paginator.posts %}
+        {% include single.html %}
     {% endfor %}
+
+{% if paginator.next_page %}
+<a href="{{ site.base_url }}/page{{ paginator.next_page }}">&larr; Older Posts</a>
+{% endif %}
+
+{% if paginator.previous_page %}
+<a href="{{ site.base_url }}/page{{ paginator.previous_page }}">Newer Posts &rarr;</a>
+{% endif %}
+
+
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'binaryelysium'; // required: replace example with your forum shortname
