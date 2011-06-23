@@ -1,4 +1,5 @@
 _drafts/
+*.swp
 _site/
 *.bak
 *~
