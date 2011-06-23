@@ -8,14 +8,29 @@ layout: default
                 {% if site.collated_posts[page.year][page.month][d] %}
                     {% for post in site.collated_posts[page.year][page.month][d] reversed %}
         <li class="internal">
-            <a href="{{ post.url }}">{{ post.title }}</a>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <div class="meta">
-                <span class="published">{{ post.date | date: "%B %d, %Y" }}</span>
+                <span class="published">{{ post.date | date: "%B %d, %Y" }}</span> | <a class="post-comments" href="{{site.base_url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.uuid }}">Comments</a>
             </div>
-            {{ post.Teaser | markdownize }}
+            {% if post.teaser-img %}
+            <a href="{{ post.url }}"><img class="header-img" src="{{site.base_url}}/uploads/{{ post.date | date: "%Y/%m"}}/{{ post.teaser-img }}" /></a>
+            {% endif %}
+            <p class="excerpt">{{ post.teaser | strip_html }}</p>
         </li>
                     {% endfor %}
                 {% endif %}
             {% endfor %}
     </ol>
 </div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'binaryelysium'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
