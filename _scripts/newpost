@@ -72,7 +72,7 @@ layout: post
 title: #{ARGV[0]}
 uuid: #{uuid}
 teaser: 
-teaser-img: #{postname.split("-")[0]}-300x175.png
+teaser-img: #{postname.split("-")[0]}-300x175.jpg
 ---
  
 END
