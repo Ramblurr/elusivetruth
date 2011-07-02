@@ -3,7 +3,7 @@ layout: post
 title: Escaping the City
 uuid: 8b2530ae-a011-11e0-96c2-525400e84d96
 teaser: For the past several seeks I've essentially been living in Quito, Ecuador. Last weekend I felt particularly stir-crazy, whether from the city itself or being in one place so long (almost four weeks) I'm not sure. I temporarily satisfied this restlessness by taking a weekend to hike and camp in the Ecuadorian Andes. 
-teaser-img: escaping-300x175.jpg
+teaser-img: escaping
 published: true
 ---
 

@@ -27,6 +27,20 @@
 
     <link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css' />
     <link href='http://fonts.googleapis.com/css?family=Allerta' rel='stylesheet' type='text/css' />
+
+    {% if page.teaser-img %}
+    <meta property="og:title" content="{{page.title}}"/>
+    <meta property="og:image" content="{{ site.base_url }}/uploads/{{ page.date | date: "%Y/%m"}}/{{ page.teaser-img }}-300x300.jpg"/>
+    <meta property="og:description" content="{{ page.teaser }}"/>
+    <link rel='canonical' href='{{site.base_url}}{{ page.url }}' />
+    <link rel="image_src" href="{{ site.base_url }}/uploads/{{ page.date | date: "%Y/%m"}}/{{ page.teaser-img }}-300x300.jpg" />
+    {% endif %}
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Elusive Truth"/>
+    <meta property="og:url" content="{{site.base_url}}{{ page.url }}"/>
+    <meta property="fb:admins" content="6236588"/>
+   
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];

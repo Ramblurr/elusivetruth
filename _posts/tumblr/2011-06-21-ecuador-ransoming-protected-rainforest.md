@@ -3,7 +3,7 @@ layout: post
 uuid: d1a49c74-9c59-11e0-98d1-525400e84d96
 title: Ecuador Ransoming Protected Rainforest? 
 teaser: After reading an article by Reuters I couldn't help but get the impression that Ecuador is ransoming its rainforest.
-teaser-img: joshbousel-300x175.jpg
+teaser-img: joshbousel
 ---
 <a href="http://www.flickr.com/photos/joshbousel/4056414751/" title="Yasuni National Park by joshbousel, on Flickr"><img class="imghead" src="http://farm3.static.flickr.com/2428/4056414751_38ff922420.jpg" width="500" height="332" alt="Yasuni National Park" /></a>
 
