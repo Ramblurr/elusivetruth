@@ -56,6 +56,6 @@ We made it to to Chugchilán just as it started to rain. Exhausted and starving 
 
 From Zumbahua it was straightforward getting buses back to Quito. That night, in my hostel bed, falling asleep to the sounds of car alarms and awful karaoke didn't bother me as much as before. We'll see how long it lasts. 
 
-<div class='stb-images_box'><a title="Hiking Quilotoa to Chugchilán Photos" href="http://www.flickr.com/photos/ramblurr/sets/72157627009996026/detail/">Click here /to view all photos</a></div>
+<div class='stb-images_box'><a title="Hiking Quilotoa to Chugchilán Photos" href="http://www.flickr.com/photos/ramblurr/sets/72157627009996026/detail/">Click here to view all photos</a></div>
 
 [CS]: http://www.couchsurfing.org
