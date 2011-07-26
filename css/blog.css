@@ -159,7 +159,6 @@ div.archive h2+p {
     font-style:     italic;
     color:          #666;
     font-size:      small;
-    margin-bottom: .5em;
 }
 .archive ol li.flickr {
     position:   relative;
@@ -183,6 +182,7 @@ div.archive h2+p {
     }
 .archive .excerpt {
     clear: both;
+    margin-top: 10px;
 }
 
 .header-img {
