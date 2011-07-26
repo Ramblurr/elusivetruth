@@ -1,8 +1,8 @@
 ---
 layout: post
-title: These Aren't Real Problems
+title: These aren't real problems
 uuid: 21215588-b723-11e0-8327-525400e84d96
-teaser: 
+teaser: Three days on the beach can make you pretty lazy. The uncomfortable bus ride back from the beach combined with some 90s eurodance pop apparently sparks revelations. 
 teaser-img: montanita
 published: true 
 ---
@@ -45,7 +45,7 @@ Throughout all my travels, I've yet to encounter a truly dire setback, and I thi
 
 In my [last post][comingout] I professed my desire to start framing my day-to-day life in the context of the moment, that is, I've resolved to put less emphasis on long term plans and issues. This is because I had let my perspective grow disproportionally large. There were so many goals and problems I was trying to court, that I simply felt overwhelmed. By contracting the scale of my outlook, I've been able to make my goals and problems manageable again. While I still believe this to be the right attitude for me to adopt, I am cognizant of the fact that I can't become utterly consumed with the present lest I lose valuable perspective in the other direction.
 
-Your problems can appear much more exigent and calamitous than they would be if you placed them against the proper backdrop. Taking a mental step back and surrendering a little chuckle about your circumstances can make all the difference. 
+Your problems can appear much more grievous and exigent than they would be if you placed them against the proper backdrop. Taking a mental step back and surrendering a little chuckle about your circumstances can make all the difference. 
 
 Back on the lurching bus, I bopped my head to Haddaway with a shit-eating grin on my face. We'd make it home, and if we didn't, well, that would be another adventure. 
 
