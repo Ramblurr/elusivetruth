@@ -21,6 +21,10 @@ a:hover			{ color: #000; }
     text-align: right;
 }
 
+#header a { 
+    color: white;
+}
+
 #header h1 {
     margin: 20px 150px 20px 300px;
     text-shadow: -3px -3px 0px rgba(18, 9, 41, 0.2);
