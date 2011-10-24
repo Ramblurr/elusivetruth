@@ -2,7 +2,7 @@
 layout: post
 title: "The Adventure Illusion or: how I learned to stop thinking and just ride a bike"
 uuid: d4e27a62-fb9c-11e0-bbf9-525400e84d96
-teaser: Planning a bike adventure takes an unexpected detour when the nature of adventure is suddenly called into question. What is adventure? Is there any left to be had? I wish I could just ride my bike without these contemplative fits.
+teaser: Planning a bike adventure takes an unexpected detour when the nature of adventure is suddenly called into question. What is adventure? Is there any left to be had? Now with 100% more Calvin & Hobbes!
 teaser-img: bike2
 ---
 
