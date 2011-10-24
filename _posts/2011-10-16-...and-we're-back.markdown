@@ -6,7 +6,7 @@ teaser: Why hello there. It has been 82 days, since my last update, that is 2 mo
 teaser-img: lazy
 ---
 
-<img src="/uploads/2011/10/lazy.jpg" width="500" alt="Open!" />
+<img src="http://elusivetruth.net/uploads/2011/10/lazy.jpg" width="500" alt="Open!" />
 
 Why hello there. It has been 82 days, since my last update, that is 2 months, 2 weeks and 6 days. Most of you surely know I'm not dead. Some of you may know I'm no longer in Ecuador. My excuse for not writing has been that since my camera was broken, I couldn't possibly do any updates. After all, people come here for the pictures, not the words.
 
