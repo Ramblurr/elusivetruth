@@ -14,7 +14,7 @@
                     </div>
 
                     <div class="sidebox">
-                        <h3>Latest Dailies</h3>
+                        <h3>Recent Dailies</h3>
                         <ul>
                             {% for post in site.tags.dailies limit:5 %}
                             <li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
@@ -23,7 +23,7 @@
                         </ul>
                     </div>
                     <div class="sidebox">
-                        <h3>Latest Articles</h3>
+                        <h3>Recent Articles</h3>
                         <ul>
                             {% for post in site.tags.articles limit:5 %}
                             <li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
