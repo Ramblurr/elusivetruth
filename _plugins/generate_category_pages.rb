@@ -41,7 +41,7 @@ module Jekyll
     def paginate(site, page)
     
       # sort categories by descending date of publish
-      category_posts = site.categories[page.data['category']].sort_by { |p| -p.date.to_f }
+      category_posts = site.tags[page.data['category']].sort_by { |p| -p.date.to_f }
 
       # calculate total number of pages
       pages = CategoryPager.calculate_pages(category_posts, site.config['paginate'].to_i)
