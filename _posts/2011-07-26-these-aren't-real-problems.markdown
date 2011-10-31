@@ -1,5 +1,5 @@
 ---
-category: article
+tags: [articles]
 layout: post
 title: These aren't real problems
 uuid: 21215588-b723-11e0-8327-525400e84d96

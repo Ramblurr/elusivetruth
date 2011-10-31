@@ -1,5 +1,5 @@
 ---
-category: article
+tags: [articles]
 layout: post
 title: Escaping the City
 uuid: 8b2530ae-a011-11e0-96c2-525400e84d96

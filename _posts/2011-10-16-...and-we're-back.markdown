@@ -1,5 +1,5 @@
 ---
-category: article
+tags: [articles]
 layout: post
 title: ...and we're back!
 uuid: 3c864554-f850-11e0-9574-525400e84d96
