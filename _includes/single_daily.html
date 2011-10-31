@@ -1,0 +1,13 @@
+<div class="post">
+    <h3><a href="{{site.base_url}}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ post.title }}">
+                    {{ post.title }}
+            </a></h3>
+                <p class="post-meta">
+                <span class="post-dat">{{ post.date | date: '%d %B %Y' }} | {{ post.tags}} | </span>
+                    <a class="post-comments" href="{{site.base_url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.uuid }}">Comments</a>
+                </p>
+
+                <div class="entry">
+                    {{ post.content | markdownize }}
+                </div>
+</div>
