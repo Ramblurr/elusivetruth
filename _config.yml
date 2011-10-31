@@ -14,6 +14,7 @@ markdown:    rdiscount
 rdiscount:
   extensions: [smart]
 permalink:   date
+pagination: true
 paginate: 3
 
 base_url:  http://elusivetruth.net
