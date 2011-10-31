@@ -16,7 +16,7 @@
                     <div class="sidebox">
                         <h3>Latest Dailies</h3>
                         <ul>
-                            {% for post in site.categories.dailies limit:5 %}
+                            {% for post in site.tags.dailies limit:5 %}
                             <li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
                             {% endfor%}
                             <li><a href="{{ site.base_url }}/archives.html" title="Blog Archive">Archives ...</a></li>
@@ -25,7 +25,7 @@
                     <div class="sidebox">
                         <h3>Latest Articles</h3>
                         <ul>
-                            {% for post in site.categories.articles limit:5 %}
+                            {% for post in site.tags.articles limit:5 %}
                             <li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
                             {% endfor%}
                             <li><a href="{{ site.base_url }}/archives.html" title="Blog Archive">Archives ...</a></li>
