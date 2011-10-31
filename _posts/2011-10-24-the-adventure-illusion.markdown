@@ -1,4 +1,5 @@
 ---
+category: article
 layout: post
 title: "The Adventure Illusion or: how I learned to stop thinking and just ride a bike"
 uuid: d4e27a62-fb9c-11e0-bbf9-525400e84d96

@@ -1,4 +1,5 @@
 ---
+category: article
 layout: post
 uuid: d1a49c74-9c59-11e0-98d1-525400e84d96
 title: Ecuador Ransoming Protected Rainforest? 

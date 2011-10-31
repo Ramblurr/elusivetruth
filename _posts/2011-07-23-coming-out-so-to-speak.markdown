@@ -1,4 +1,5 @@
 ---
+category: article
 layout: post
 title: Coming out...so to speak
 uuid: ace68a82-b563-11e0-a37f-525400e84d96

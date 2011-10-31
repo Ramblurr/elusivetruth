@@ -4,6 +4,7 @@ title: Dancing in Pujili
 uuid: 1a1c84b6-a4c6-11e0-b23a-525400e84d96
 teaser: An Ecuadorian friend takes me to an unforgettable dancing festival. I drink quite a bit of alcohol, see lots of local flair, and surmount a few hangups in the process. 
 teaser-img: pujili
+category: article
 ---
 
 The past couple weeks I have been hanging out with a local Ecuadorian named Ana. She's originally from here in Quito, but is well traveled and speaks English quite well, though I try to to get by in Spanish as much as possible. Her best personality trait, and the reason I'm even writing this update on this topic, is just how friendly and open she is about sharing her country and culture. Case in point, after only hanging out twice she invited me to travel with her family on a day-trip to [Pujili, Ecuador][pujili] (that's *Poo-hi-li*) to watch the Corpus Christi Festival. Without her I wouldn't have had this unforgettable experience, thanks Ana!
