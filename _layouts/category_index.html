@@ -1,24 +1,21 @@
 ---
 layout: default
-title: Elusive Truth - Home
 ---
-<div style="background-color: #f2f2f2; padding: 10px;">
-<h2>Latest Daily Log</h2>
-{% for post in site.tags.dailies limit:1 %}
-        {% include single_daily.html %}
-<p class="buttons"><a href="{{site.base_url}}/dailies" title="Read more daily logs">Read more dailies...</a><a class="post-comments positive" title="Leave your opinion/thoughts!" href="{{site.base_url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.uuid }}">Comments</a></p>
-{% endfor %}
-
-</div>
-
-<h2>Latest Articles</h2>
 <div class="archive">
     <ol>
-    {% for post in site.tags.articles limit:5 %}
+    {% for post in paginator.posts %}
         {% include single.html %}
     {% endfor %}
     </ol>
-<p class="buttons"><a href="{{site.base_url}}/articles" title="Read more articles">Read more articles...</a></p>
+    {{ paginator | pager_links }}
+
+{% if paginator.next_page %}
+<a href="{{ site.base_url }}/page{{ paginator.next_page }}">&larr; Older Posts</a>
+{% endif %}
+
+{% if paginator.previous_page %}
+<a href="{{ site.base_url }}/page{{ paginator.previous_page }}">Newer Posts &rarr;</a>
+{% endif %}
 </div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
