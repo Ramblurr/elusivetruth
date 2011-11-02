@@ -10,7 +10,7 @@
 ###
 
 # omit the trailing slash, please
-blog_dir = "/home/ramblurr/elusivetruth"
+blog_dir = "/home/ramblurr/docs/elusivetruth"
 
 
 require 'optparse'
@@ -25,6 +25,11 @@ optparse = OptionParser.new do |opts|
   options[:draft] = false
   opts.on('-d', '--draft', 'Create post as a draft') do 
     options[:draft] = true
+  end
+
+  options[:category] = 'hello'
+  opts.on('-c', '--category CAT', 'Create post under a category dir in _posts') do |cat|
+    options[:category] = cat
   end
 
   options[:format] = :markdown
@@ -58,24 +63,34 @@ end
 
 puts "Generating post..."
 
+is_daily = options[:category] == "dailies"
+
 date_prefix = Time.now.strftime("%Y-%m-%d")
-postname = ARGV[0].strip.downcase.gsub(/ /, '-')
+postname = is_daily ? 'daily' : ARGV[0].strip.downcase.gsub(/ /, '-')
 
 post_dir = options[:draft] ? '_drafts' : '_posts'
 
+post_dir += "/#{options[:category]}"
+
 post = "#{blog_dir}/#{post_dir}/#{date_prefix}-#{postname}.#{options[:format]}"
 uuid = `uuid`.strip
+
+
+teaser = "teaser:
+teaser-img: #{postname.split("-")[0]}
+"
  
 header = <<-END
 ---
-layout: post
+layout: #{is_daily ? 'daily' : 'post'}
 title: #{ARGV[0]}
 uuid: #{uuid}
-teaser: 
-teaser-img: #{postname.split("-")[0]}-300x175.jpg
+#{is_daily ? '' : teaser}
+tags: [#{is_daily ? 'dailies' : 'articles'}]
 ---
  
 END
+puts post
  
 File.open(post, 'w') do |f|
   f << header
