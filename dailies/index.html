@@ -10,6 +10,8 @@ category: dailies
 <hr />
 <div class="archive">
     {% for post in paginator.posts %}
+        {% assign counter = forloop.index0 %}
+        <a name="daily{{counter}}" />
         {% include single_daily.html %}
     {% endfor %}
 
