@@ -7,6 +7,7 @@ layout: default
 <p>Where possible I just stick to the facts: <em>what, when, where</em>. If you want to know the <em>why</em>, head over to the less-frequently updated <a href="/articles.html">articles section</a> where I post long blobs of overengineered and annoyingly contemplative text.</p>
 <hr />
 <div class="archive">
+    {{ paginator | pager_links }}
     {% for post in paginator.posts %}
         {% include single_daily.html %}
         <hr />
