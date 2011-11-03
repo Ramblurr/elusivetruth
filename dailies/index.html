@@ -13,6 +13,7 @@ category: dailies
         {% assign counter = forloop.index0 %}
         <a name="daily{{counter}}" />
         {% include single_daily.html %}
+        <hr />
     {% endfor %}
 
     {{ paginator | pager_links }}

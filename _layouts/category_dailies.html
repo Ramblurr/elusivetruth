@@ -9,6 +9,7 @@ layout: default
 <div class="archive">
     {% for post in paginator.posts %}
         {% include single_daily.html %}
+        <hr />
     {% endfor %}
 
     {{ paginator | pager_links }}
