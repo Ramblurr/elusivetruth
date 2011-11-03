@@ -13,30 +13,30 @@ layout: default
                 <div class="entry">
                     {{ content | markdownize }}
                 </div>
-
-{% for post in site.categories.dailies%}
+{% for post in site.tags.dailies%}
 {% if post.url == page.url %}
 {% assign post_index0 = forloop.index0 %}
 {% assign post_index1 = forloop.index %}
 {% endif %}
 {% endfor %}
-{% for post in site.categories.dailies%}
+{% for post in site.tags.dailies%}
 {% if post_index0 == forloop.index %}
 {% assign next_post = post.url %}
+{% assign next_post_title = post.title %}
 {% endif %}
 {% if post_index1 == forloop.index0 %}
 {% assign prev_post = post.url %}
+{% assign prev_post_title = post.title %}
 {% endif %}
 {% endfor %}
 
 {% if prev_post %}
-                <a href="{{ page.previous.url }}" title="Previous: {{ page.previous.title }}">{{ page.previous.title }}</a>
+<a href="{{ site.base_url }}{{ prev_post }}" title="Previous: {{ prev_post_title }}">&larr; Previous Daily</a>
 {% endif %}
 
 {% if next_post %}
-                <a href="{{ page.next.url }}" title="Next: {{ page.next.title }}">{{ page.next.title }}</a>
+                <a href="{{ site.base_url }}{{ next_post }}" title="Next: {{ next_post_title }}">Next Daily &rarr;</a>
 {% endif %}
-
 
                 <hr />
                 <a name="comments"></a>
