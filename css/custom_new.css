@@ -36,6 +36,10 @@ a:hover			{ color: #000; }
     text-align: center;
 }
 
+#header h1 a {
+    text-decoration: none;
+}
+
 #header .description {
     line-height: 1.5em;
     margin: 0 150px 0 300px;
