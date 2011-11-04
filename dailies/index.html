@@ -23,9 +23,6 @@ category: dailies
 </ul>
 
 <h2>Latest Entries</h2>
-
-    <div style="margin-bottom: 10px;">
-    </div>
     {% for post in paginator.posts %}
         {% assign counter = forloop.index0 %}
         <a name="daily{{counter}}" />
