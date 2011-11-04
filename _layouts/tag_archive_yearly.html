@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div class="archive">
+    <h1>{{page.tag}} archives from {{ page.year }}</h1>
+    <ul>
+    {% for m in (1..12) %}
+        {% assign month = site.collated_tags[page.tag][page.year][m] %}
+        {% if site.collated_tags[page.tag][page.year][m] %}
+        <li><a href="#month{{m}}">{{ m | to_month}}</a> ({{ month | size }} entries)</li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+    {% for m in (1..12) %}
+        {% if site.collated_tags[page.tag][page.year][m] %}
+        <h2 id="month{{m}}"><a name="month{{m}}"></a>{{ m | to_month }}</h2>
+    <ol>
+            {% for d in (1..31) %}
+                {% if site.collated_tags[page.tag][page.year][m][d] %}
+                    {% for post in site.collated_tags[page.tag][page.year][m][d] %}
+                        {% include single_daily.html %}
+                        <hr />
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+    </ol>
+        {% endif %}
+    {% endfor %}
+
+    {{ page.prev_link }}
+    {{ page.next_link }}
+</div>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'binaryelysium'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
