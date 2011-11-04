@@ -8,7 +8,21 @@ category: dailies
 
 <p>Where possible I just stick to the facts: <em>what, when, where</em>. If you want to know the <em>why</em>, head over to the less-frequently updated <a href="/articles.html">articles section</a> where I post long blobs of overengineered and annoyingly contemplative text.</p>
 <hr />
+
 <div class="archive">
+<ul>
+    {% for year in site.dailies_years %}
+    <h3>{{year}}</h3>
+    <ul>
+        {% for archive in site.dailies_archives[year] %}
+            <li>
+              <a href="{{ site.base_url }}/dailies{{ archive.url }}">{{ archive.name }}</a> ({{ archive.posts | size }} entry)
+            </li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+
     <div style="margin-bottom: 10px;">
         {{ paginator | pager_links }}
     </div>
