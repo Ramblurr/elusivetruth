@@ -5,7 +5,7 @@ title: Elusive Truth - Home
 <div style="background-color: #f2f2f2; padding: 10px;">
 <h2>Latest Daily Log</h2>
 {% for post in site.tags.dailies limit:1 %}
-        {% include single_daily.html %}
+        {% include single_dailies.html %}
 <p class="buttons"><a href="{{site.base_url}}/dailies#daily1" title="Read more daily logs">Read more dailies...</a><a class="post-comments positive" title="Leave your opinion/thoughts!" href="{{site.base_url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.uuid }}">Comments</a></p>
 {% endfor %}
 
@@ -15,7 +15,7 @@ title: Elusive Truth - Home
 <div class="archive">
     <ol>
     {% for post in site.tags.articles limit:5 %}
-        {% include single.html %}
+        {% include single_articles.html %}
     {% endfor %}
     </ol>
 <p class="buttons"><a href="{{site.base_url}}/articles" title="Read more articles">Read more articles...</a></p>

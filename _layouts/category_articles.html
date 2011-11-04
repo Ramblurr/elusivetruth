@@ -4,7 +4,7 @@ layout: default
 <div class="archive">
     <ol>
     {% for post in paginator.posts %}
-        {% include single.html %}
+        {% include single_articles.html %}
     {% endfor %}
     </ol>
     {{ paginator | pager_links }}

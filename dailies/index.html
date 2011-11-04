@@ -29,7 +29,7 @@ category: dailies
     {% for post in paginator.posts %}
         {% assign counter = forloop.index0 %}
         <a name="daily{{counter}}" />
-        {% include single_daily.html %}
+        {% include single_dailies.html %}
         <hr />
     {% endfor %}
 
