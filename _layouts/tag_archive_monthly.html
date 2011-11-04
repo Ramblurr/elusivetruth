@@ -8,7 +8,7 @@ layout: default
             {% for d in (1..31) %}
                 {% if site.collated_tags[page.tag][page.year][page.month][d] %}
                     {% for post in site.collated_tags[page.tag][page.year][page.month][d] %}
-                        {% include single_daily.html %}
+                        {% include single_dailies.html %}
                         <hr />
                     {% endfor %}
                 {% endif %}
