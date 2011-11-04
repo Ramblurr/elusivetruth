@@ -73,8 +73,10 @@ ul li           { padding: 2px 0 2px 9px; background: url('../images/icons/bulle
 #nav ul li { background: none; }
 
 .imghead, .entry img {
-    width: 99%;
     border: 1px solid #333;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 /* date */
 .date
