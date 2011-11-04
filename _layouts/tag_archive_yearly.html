@@ -30,7 +30,8 @@ title: Archives - Elusive Truth
 
     <div id="read-more">
     <h3 >Read More</h3>
-    {{ page.prev_link }} <a href="/dailies/" title="Dailies Index">Dailies Index</a> {{ page.next_link }}
+
+    {{ page.prev_link }} <a href="/{{page.tag}}/" title="{{ page.tag | proper_case }} Index">{{ page.tag | proper_case }} Index</a> {{ page.next_link }}
     </div>
 </div>
 

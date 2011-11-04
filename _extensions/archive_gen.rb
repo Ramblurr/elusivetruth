@@ -10,6 +10,11 @@ module Jekyll
     def to_month_abbr(input)
       return Date::ABBR_MONTHNAMES[input.to_i]
     end
+
+    def proper_case(input)
+        return input.split(/\s+/).each{ |word| word.capitalize! }.join(' ')
+    end
+
   end
 
   class Archive < Page
