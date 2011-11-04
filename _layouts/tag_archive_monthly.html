@@ -14,8 +14,10 @@ layout: default
                 {% endif %}
             {% endfor %}
     </ol>
-    {{ page.prev_link }}
-    {{ page.next_link }}
+    <div id="read-more">
+    <h3 >Read More</h3>
+    {{ page.prev_link }} <a href="/dailies/" title="Dailies Index">Dailies Index</a> {{ page.next_link }}
+    </div>
 </div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
