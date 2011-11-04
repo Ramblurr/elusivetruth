@@ -15,7 +15,7 @@ category: dailies
     <ul>
         {% for archive in site.dailies_archives[year] reversed %}
             <li>
-              <a href="{{ site.base_url }}/dailies{{ archive.url }}">{{ archive.name }}</a> ({{ archive.posts | size }} entry)
+              <a href="{{ site.base_url }}/dailies{{ archive.url }}">{{ archive.name }}</a> ({{ archive.posts | size }} entries)
             </li>
         {% endfor %}
     </ul></li>
