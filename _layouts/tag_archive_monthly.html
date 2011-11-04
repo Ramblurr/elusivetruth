@@ -4,7 +4,7 @@ title: Archives - Elusive Truth
 ---
 
 <div class="archive">
-    <h1>{{page.tag}} from {{ page.month | to_month }}, {{ page.year }}</h1>
+    <h1>{{page.tag |proper_case}} from {{ page.month | to_month }}, {{ page.year }}</h1>
     <ol>
             {% for d in (1..31) %}
                 {% if site.collated_tags[page.tag][page.year][page.month][d] %}
