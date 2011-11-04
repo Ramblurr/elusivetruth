@@ -7,24 +7,24 @@ category: dailies
 <p>While traveling, I do my best to write a few sentences a day in my little paper notebook. As I get access to the internet, I clean up some of these entries and post them here. Don't expect an update each day; I don't have Internet every day.</p>
 
 <p>Where possible I just stick to the facts: <em>what, when, where</em>. If you want to know the <em>why</em>, head over to the less-frequently updated <a href="/articles.html">articles section</a> where I post long blobs of overengineered and annoyingly contemplative text.</p>
-<hr />
 
 <div class="archive">
-<ul>
-    {% for year in site.dailies_years %}
-    <h3>{{year}}</h3>
     <ul>
-        {% for archive in site.dailies_archives[year] %}
+    {% for year in site.dailies_years reversed  %}
+    <li><h3><a href="{{ site.base_url }}/dailies/{{year}}">{{year}}</a></h3>
+    <ul>
+        {% for archive in site.dailies_archives[year] reversed %}
             <li>
               <a href="{{ site.base_url }}/dailies{{ archive.url }}">{{ archive.name }}</a> ({{ archive.posts | size }} entry)
             </li>
         {% endfor %}
-    </ul>
+    </ul></li>
     {% endfor %}
+</ul>
 
+<h2>Latest Entries</h2>
 
     <div style="margin-bottom: 10px;">
-        {{ paginator | pager_links }}
     </div>
     {% for post in paginator.posts %}
         {% assign counter = forloop.index0 %}
