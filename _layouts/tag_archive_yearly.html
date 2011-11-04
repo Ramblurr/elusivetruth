@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="archive">
-    <h1>{{page.tag}} archives from {{ page.year }}</h1>
+    <h1>{{page.tag}} from {{ page.year }}</h1>
     <ul>
     {% for m in (1..12) %}
         {% assign month = site.collated_tags[page.tag][page.year][m] %}
