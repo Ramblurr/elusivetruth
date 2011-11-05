@@ -15,7 +15,7 @@ which had nested right on the trail.
 
 
 <div class="caption">
-<a href="www.flickr.com/photos/ramblurr/sets/72157628038573828/detail" title="Isla de la
+<a href="http://www.flickr.com/photos/ramblurr/sets/72157628038573828/detail" title="Isla de la
 Plata by Ramblurr, on Flickr"><img
 src="http://farm7.static.flickr.com/6100/6306616923_fdaea35911.jpg" width="500"
 alt="Isla de la Plata"></a>
