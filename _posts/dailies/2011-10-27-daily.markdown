@@ -3,6 +3,7 @@ layout: daily
 title: Guayaquil, Ecuador (day 2)
 uuid: 0c6ef0e2-056f-11e1-a9fa-001c259a5de2
 tags: [dailies]
+teaser: Daily travelogue update for 27 Oct 2011
 ---
 Worked all day in the hostel lobby. Who knows what the staff and other patrons
 (all Ecuadorian) thought of the weird, nerdy gringo camped in front of his

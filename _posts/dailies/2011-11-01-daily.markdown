@@ -3,6 +3,7 @@ layout: daily
 title: Puerto Lopez (day 3)
 uuid: 80ff0eae-0585-11e1-978f-001c259a5de2
 tags: [dailies]
+teaser: Daily travelogue update for 01 Nov 2011
 ---
 Puerto Lopez is a small fishing village on the Pacific coast. Yesterday, just
 after dawn, I went down to the beach as the fishermen were pulling in from their long

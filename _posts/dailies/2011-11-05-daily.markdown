@@ -3,6 +3,7 @@ layout: daily
 title: Colonche to Salinas, 55km (bike)
 uuid: e0814034-08cf-11e1-a49c-001c259a5de2
 tags: [dailies]
+teaser: Daily travelogue update for 05 Nov 2011
 ---
 
 Set out early. Thanked the nice owner of the hosteria that let me pitch my tent

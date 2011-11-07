@@ -3,6 +3,7 @@ layout: daily
 title: Manta to Puerto Cayo, 77km (bicycle)
 uuid: b79a3e2a-0580-11e1-be9c-001c259a5de2
 tags: [dailies]
+teaser: Daily travelogue update for 29 Oct 2011
 ---
 Today was my first official day on the *Ruta del Sol* (Route of the Sun), the
 coastal route along Ecuador's coast.

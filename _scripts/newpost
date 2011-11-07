@@ -75,17 +75,19 @@ post_dir += "/#{options[:category]}"
 post = "#{blog_dir}/#{post_dir}/#{date_prefix}-#{postname}.#{options[:format]}"
 uuid = `uuid`.strip
 
+if is_daily
+    teaser = "teaser: Daily travelogue update for #{Time.now.strftime("%d %b %Y")}"
+else
+    teaser = "teaser:
+    teaser-img: #{postname.split("-")[0]}"
+end
 
-teaser = "teaser:
-teaser-img: #{postname.split("-")[0]}
-"
- 
 header = <<-END
 ---
 layout: #{is_daily ? 'daily' : 'post'}
 title: #{ARGV[0]}
 uuid: #{uuid}
-#{is_daily ? '' : teaser}
+#{teaser}
 tags: [#{is_daily ? 'dailies' : 'articles'}]
 ---
  

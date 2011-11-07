@@ -3,6 +3,7 @@ layout: daily
 title: Miami to Guayaquil, Ecuador (plane)
 uuid: 0ffea240-0572-11e1-bfba-001c259a5de2
 tags: [dailies]
+teaser: Daily travelogue update for 26 Oct 2011
 ---
 Flight from Miami was uneventful. Successfully retrieved my bicycle from the
 baggage claim and passed through customs with only cursory glance from the

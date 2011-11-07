@@ -3,6 +3,7 @@ layout: daily
 title: Puerto Lopez (day 5)
 uuid: ff0adbdc-0703-11e1-baef-001c259a5de2
 tags: [dailies]
+teaser: Daily travelogue update for 03 Nov 2011
 ---
 Visited Isla de la Plata yesterday. It is a little island covered in scrub
 about 1 hour from Puerto Lopez by boat. Some call it the poor man's Galapagos
