@@ -28,6 +28,9 @@
     {% if page.teaser-img %}
     <meta property="og:image" content="{{ site.base_url }}/uploads/{{ page.date | date: "%Y/%m"}}/{{ page.teaser-img }}-300x300.jpg"/>
     <link rel="image_src" href="{{ site.base_url }}/uploads/{{ page.date | date: "%Y/%m"}}/{{ page.teaser-img }}-300x300.jpg" />
+    {% else %}
+    <meta property="og:image" content="{{ site.base_url }}/images/avatar_man200.png"/>
+    <link rel="image_src" href="{{ site.base_url }}/images/avatar_man200.png" />
     {% endif %}
     <meta property="og:title" content="{{page.title}}"/>
     <meta property="og:description" content="{{ page.teaser }}"/>
