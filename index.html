@@ -1,7 +1,25 @@
 ---
-layout: default
+layout: index
 title: Elusive Truth - Home
 ---
+{% include header_new.html %}
+            <div class="span-24" id="intro">
+    <p><strong>Hello!</strong> I'm Casey, a <a href="http://elusivetruth.net/2011/07/23/coming-out-so-to-speak.html" title="Coming out... so to speak">nomad</a> and a <a href="http://binaryelysium.com">programmer</a>. This is my travel chronicle.</p>
+<p class="small">
+It is organized into two sections:
+</p>
+<ol>
+    <li><a href="/dailies" title="Daily Logs">Daily logs</a>&mdash;raw impressions and experiences posted semi daily</li>
+    <li><a href="/articles" title="Articles">Articles</a>&mdash;longer reflective pieces posted infrequently</li>
+</ol>
+<p>
+Currently, I'm cycling through South America. 
+</p>
+
+            </div>
+            <div class="span-24" id="page">
+                <div class="span-17 first border" id="maincontent">
+                    <div class="content">
 <div style="background-color: #f2f2f2; padding: 10px;">
 <h2>Latest Daily Log</h2>
 {% for post in site.tags.dailies limit:1 %}

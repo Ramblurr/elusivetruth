@@ -1,7 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Allerta|Didact+Gothic|PT+Serif&v2);
+body {
+    font-family: 'PT Serif', Georgia, Times, serif;
+}
+p {
+    font-family: 'PT Serif', Georgia, Times, serif;
+    font-size: 18px;
+    line-height: 25px;
+}
+h1, h2, h3, h4 {
+    font-family: 'Didact Gothic', Helvetica, Arial, sans-serif;
+}
+#nav ul li { 
+    font-family: 'Allerta', Helvetica, Arial, sans-serif;
+}
+
+#intro {
+    background-color: white;
+    margin-right: 0;
+    padding: 15px 15px 15px 15px;
+    width: 915px;
+    border-top: 1px solid #CCC;
+}
+
+#intro p {
+    margin: 0 auto 15px auto;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 1.0em;
+    text-align: center;
+    max-width: 600px;
+}
+
+#intro p.small {
+    font-size: 21px;
+}
+#intro ol {
+    margin: 0 auto 15px auto;
+    font-size: 18px;
+    list-style-type: none; text-align:left;
+}
+#intro ol li {
+    background: url(/images/two.gif) top left no-repeat;
+    padding: 0px 0 5px 27px;
+    margin:auto;
+    width: 300px;
+}
+#intro ol li:first-child {
+    background:url(/images/one.gif) top left no-repeat;
+}
+
 div.entry {
     font-size: 1.4em;
     line-height: 1.4em;
     text-align: left;
+}
+
+.post h3 {
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 0.2em;
 }
 
 .post-meta {
@@ -70,7 +127,9 @@ h2 a 					{ color: #263C4B/*3B4A25*/; text-decoration: none; }
 ul              { margin-left: 15px; list-style-type: none; text-align:left; }
 ul li           { padding: 2px 0 2px 9px; background: url('../images/icons/bullet_square_grey.gif') left 5px no-repeat; }
 
-#nav ul li { background: none; }
+#nav ul li { 
+    background: none;
+}
 
 .imghead, .entry img {
     border: 1px solid #333;

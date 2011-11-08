@@ -22,9 +22,6 @@
 
     <link rel="alternate" type="application/atom+xml" title="Elusive Truth Feed" href="http://elusivetruth.net/feed" />
 
-    <link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=Allerta' rel='stylesheet' type='text/css' />
-
     {% if page.teaser-img %}
     <meta property="og:image" content="{{ site.base_url }}/uploads/{{ page.date | date: "%Y/%m"}}/{{ page.teaser-img }}-300x300.jpg"/>
     <link rel="image_src" href="{{ site.base_url }}/uploads/{{ page.date | date: "%Y/%m"}}/{{ page.teaser-img }}-300x300.jpg" />
@@ -70,6 +67,4 @@
                     <li><a href="{{ site.base_url}}/archives.html" title="Blog Archives">Archives</a></li>
                 </ul>
             </div>
-            <div class="span-24" id="page">
-                <div class="span-17 first border" id="maincontent">
-                    <div class="content">
+
