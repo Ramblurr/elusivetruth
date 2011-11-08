@@ -113,6 +113,8 @@ div.caption p {
 
 #read-more h3 {
     font-size: 18px;
+    text-align: center;
+    font-weight: bold;
 }
 
 #read-more a {
