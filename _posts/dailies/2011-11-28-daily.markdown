@@ -23,7 +23,7 @@ a place with a view. So, 18 days ago I left Loja for the little village of
 Vilcabamba (Sacred Valley).
 
 <div class="caption">
-<img src="http://i.imgur.com/b3icb.jpg" title="View of Vilcabamba" width="500"/>
+<img src="/uploads/2011/11/dan-vista.jpg" title="View of Vilcabamba" width="500"/>
 <p>View from my 'office' these past weeks. Photo by my friend <a
 href="https://www.facebook.com/note.php?note_id=243678582361736">Dan</a></p>
 </div>
@@ -38,7 +38,7 @@ who stopover for a few days (or more) in Izhcayluma, people seem to come from
 all over the world just to visit.
 
 <div class="caption">
-<a href="http://i.imgur.com/PEDHw"><img src="http://i.imgur.com/PEDHwl.jpg" title="My Bike at Izhcayluma" width="500"/></a>
+<a href="/uploads/2011/11/bike-izh.jpg"><img src="/uploads/2011/11/bike-izh-s.jpg" title="My Bike at Izhcayluma" width="500"/></a>
 <p>Posing after arriving at Izhcayluma</p>
 </div>
 
