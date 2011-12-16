@@ -62,8 +62,7 @@ module Jekyll
             m -= 1
         end
 
-
-        if self.site.collated_tags[tag][y][m]
+        if self.site.collated_tags[tag][y] and self.site.collated_tags[tag][y][m]
             return "<a href=\"/#{tag}/#{y}/#{m}\">&larr; #{to_month(m)} #{y}</a>"
         end
         return ""
@@ -78,7 +77,7 @@ module Jekyll
             m += 1
         end
 
-        if self.site.collated_tags[tag][y][m]
+        if self.site.collated_tags[tag][y] and self.site.collated_tags[tag][y][m]
             return "<a href=\"/#{tag}/#{y}/#{m}\">#{to_month(m)} #{y} &rarr;</a>"
         end
         return ""
