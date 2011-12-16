@@ -13,7 +13,7 @@ category: dailies
     {% for year in site.dailies_years reversed  %}
     <li><h3><a href="{{ site.base_url }}/dailies/{{year}}">{{year}}</a></h3>
     <ul>
-        {% for archive in site.dailies_archives[year] reversed %}
+        {% for archive in site.dailies_archives[year] %}
             <li>
               <a href="{{ site.base_url }}/dailies{{ archive.url }}">{{ archive.name }}</a> ({{ archive.posts | size }} entries)
             </li>

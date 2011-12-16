@@ -9,20 +9,21 @@ module Jekyll
         end
         hash.each do |year, hash2|
             hash2.each do |month, days|
-
-            if days.values.flatten.length > 0
-              unless dailies_archives.key? year
-                dailies_years << year
-                dailies_archives[year] = []
-              end
-                dailies_archives[year] += [ {
-                  'name' => "#{Date::MONTHNAMES[month]}",
-                  'url' => "/#{year}/#{"%02d" % month}",
-                  'posts' => days.values.flatten
-                } ]
+                if days.values.flatten.length > 0
+                  unless dailies_archives.key? year
+                    dailies_years << year
+                    dailies_archives[year] = []
+                  end
+                    dailies_archives[year] += [ {
+                      'month' => month,
+                      'name' => "#{Date::MONTHNAMES[month]}",
+                      'url' => "/#{year}/#{"%02d" % month}",
+                      'posts' => days.values.flatten
+                    } ]
+                end
             end
+            dailies_archives[year] = dailies_archives[year].sort_by { |v| v['month'] }
         end
-      end
     end
 
     result = proceed.call
