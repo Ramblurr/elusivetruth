@@ -56,7 +56,7 @@ streets.
 <div class="caption">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lh32GPhNpWg" frameborder="0" allowfullscreen></iframe>
 <p>A long and mostly boring video of my ride from one hostel to another in Cuzco
-at over 11,000 feet (3300m). I hate cobblestone.</p>
+at over 11,000 feet (3300m). <br /> I hate cobblestone.</p>
 </div>
 
 
