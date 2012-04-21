@@ -1,0 +1,74 @@
+---
+layout: daily
+title: Dead vs Living Stories
+uuid: 3c008a74-8b47-11e1-bde7-5442498a6b1f
+teaser: Daily travelogue update for 20 Apr 2012
+tags: [dailies]
+---
+
+**From:** Cusco, Peru
+
+<div class="caption">
+<img src="/uploads/2012/04/kundur.jpg" title="A Condor" width="500"/>
+<p>An Andean Condor in flight (Photo by <a href="http://www.flickr.com/photos/nospuds/381170650/">Phil Robinson</a>)
+</p>
+</div>
+
+
+Working on a new project to record and release online native Quechua stories,
+myths, parables, jokes, proverbs, etc. I released the first one yesterday. It
+is a short story about a condor and his girl. You can listen to it and read
+along in Quechua: [Kundur (The Condor)][kundur]. English and Spanish
+translations will be up soon.
+
+People often decry the fact that Quechua is in decline, that tales and
+traditions are being lost, as fewer and fewer children grow up speaking
+Quechua.  By recording and making them available online, I feel that I'm doing
+my small part to help preserve Quechua and its unique story.
+
+Though, in some contradictory way, I feel that, by recording and transcribing
+stories, I'm also contributing to the decline of Quechua.
+
+*(For reference, the kinds of stories I'm referring to are tales, parables,
+children's stories, myths, etc.)*
+
+This strange thought occurred to me while editing a beautiful story, told from
+memory by a young woman, who had many stories she couldn't wait to tell me.
+I realized I couldn't think of any stories or myths from my culture. That
+struck me as absurd. Surely, we have stories and myths? I mean,
+I remember hearing them when I was a kid. Where did they all go?
+
+Of course we have stories and myths (think Aesop's fables and Grimm's Fairy
+Tales), but they're all stuck in books. We invented writing and books, so our
+shared cultural stories can't ever be 'lost'...right?
+
+Well, yes, technically, with books--and now digitization--most of our cherished
+stories from childhood won't ever be lost. After all, that's the problem of the
+Quechua people today: they didn't invent writing, and now they're culture is
+endanger of vanishing out from under us. It's a mad dash to scribble down as
+much history and culture as we can before the Westernization of their identity
+is complete.
+
+<!--- We can't possibly capture an entire history and culture ??  -->
+
+Yet, even as their stories are disappearing, they are still very much alive.
+They are living, breathing, animated creatures, that change slightly every time
+they're told. They make their home in the heads of grandparents and their
+grandchildren. What a fascinating life these stories have, not restricted by
+their 'canonical' copies in some dusty tome, free to evolve and change.
+
+Our stories are fixed in books, like beautiful vibrant butterflies pinned to
+the pages of a child's insect collection. Their colors have faded and they've
+become crispy in our hands. Our stories have 'right' versions. Don't dare
+deviate from them or you'll be 'wrong'.
+
+Maybe that's the price of preserving our stories. To save our stories we nail
+them to the pages of books, where they become stationary and stagnant.
+
+**Dead stories are better than no stories, I suppose.**
+
+And with that in mind, I do my best capturing the stories of the Quechua,
+pinning them to paper and hoping that in the process I'm not wringing too much life out of them.
+
+[kundur]: http://binaryelysium.com/quechua/audio/stories/kundur.html
+ 
