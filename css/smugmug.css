@@ -11,6 +11,7 @@ p {
 
 a 				{ color: #3E4967; text-decoration: none; }
 a:hover			{ color: #000; text-decoration: underline;}
+
 #smug_header {
     background-image: url('http://elusivetruth.net/images/banner_wide.jpg');
     background-repeat: no-repeat;
@@ -81,7 +82,7 @@ a:hover			{ color: #000; text-decoration: underline;}
 }
 
 #footer {
-    width: 945px;
+    width: auto;
     border-top: 4px solid #888;
     color: #888;
     font-size: 16px;
