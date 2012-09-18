@@ -43,12 +43,14 @@ h1, h2, h3, h4 {
     background: url(/images/two.gif) top left no-repeat;
     padding: 0px 0 5px 27px;
     margin:auto;
-    width: 300px;
+    width: 350px;
 }
 #intro ol li:first-child {
     background:url(/images/one.gif) top left no-repeat;
 }
-
+#intro ol li:last-child {
+    background:url(/images/three.gif) top left no-repeat;
+}
 div.entry {
     font-size: 1.4em;
     line-height: 1.4em;
