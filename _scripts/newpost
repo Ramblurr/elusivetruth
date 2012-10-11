@@ -73,7 +73,7 @@ post_dir = options[:draft] ? '_drafts' : '_posts'
 post_dir += "/#{options[:category]}"
 
 post = "#{blog_dir}/#{post_dir}/#{date_prefix}-#{postname}.#{options[:format]}"
-uuid = `uuid`.strip
+uuid = `/usr/bin/uuidgen`.strip
 
 if is_daily
     teaser = "teaser: Daily travelogue update for #{Time.now.strftime("%d %b %Y")}"

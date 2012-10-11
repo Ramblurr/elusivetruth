@@ -1,0 +1,33 @@
+---
+layout: daily
+title: Summer's End
+uuid: a6d5a468-8e07-4fab-9871-2890f99d48ba
+teaser: Daily travelogue update for 01 Oct 2012
+tags: [dailies]
+---
+
+My [Quechua language study project][source] was abruptly cut short in May when
+a fantastic job opportunity presented itself. I abruptly packed up my little
+life in Cusco and headed north to the USA for the summer.
+
+While I've no regrets about leaving South America, I've left some loose ends
+down there. First, I had a personal goal of crossing the continent on my bike,
+but I only completed, perhaps, 25% before getting distracted by the Quechua
+language and great friends in Cusco.
+
+Second, during the course of my Quechua study I started [a project to document
+stories][stories] with recordings and transcripts online. I've tons of recorded
+material to process and upload.
+
+I'm not done with South America or Quechua. I'm comfortable with lettings
+experiences come and, but this isn't one of them. One of these days I'll finish my
+cycling tour, and continue my study of the language.
+
+Since my return stateside I've been visiting a bit of the USA. Kayaking in
+Alaska, cycling in Colorado, and consulting work all over the country.
+
+Having refilled the coffers, so to speak, I'll be headed back to Egypt in a few
+weeks to brush up on my Arabic before beginning a Middle Eastern bike tour.
+
+[source]: http://binaryelysium.com/quechua/
+[stories]: http://elusivetruth.net/2012/04/20/daily.html
