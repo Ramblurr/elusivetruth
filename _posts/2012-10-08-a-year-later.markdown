@@ -9,7 +9,7 @@ teaser-img: serenity
 
  <a
 href="http://www.forbes.com/sites/jessicahagy/2012/10/04/40-things-to-say-before-you-die/"
-title="Serenity"><img src="/uploads/2012/10/serenity.jpg" alt="Honesty
+title="Serenity"><img src="http://elusivetruth.net/uploads/2012/10/serenity.jpg" alt="Honesty
 + Integrity = Serenity" /></a>
 
 A [little over a year
