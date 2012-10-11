@@ -35,13 +35,9 @@ Five km from Zumba I got a flat. The road was covered in broken glass hidden
 under wet mud. Patching a tube in the rain is... an experience. I was filthy
 when finished, mud everywhere, soaking wet. Oh well, adventure right?
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6468095041/" title="Another Flat
-Tire in the Rain by Ramblurr, on Flickr"><img
-src="http://farm8.staticflickr.com/7003/6468095041_4153a6c008.jpg" width="500" alt="Another Flat Tire in the Rain"></a>
-<p>Changing a flat in rain and mud. Why doesn't it look so bad in this
-photo?<p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/i-7JdNWfD/0/M/64680950418e8a2a0d6co-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/25087433_zMz5fN)
+Changing a flat in rain and mud. Why doesn't it look so bad in this photo?
+{: .caption }
 
 Five km later the same tire was flat again. The patch I had just applied wasn't
 working, apparently I need to practice my patching-in-the-rain skills. Screw it.
@@ -51,11 +47,9 @@ later when I'm somewhere dry and warm.
 Some indeterminate amount of time later the rain stopped and I was treated to
 a colorful after-rain sky.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6468099847/" title="Colors after Rain by Ramblurr, on Flickr"><img
-src="http://farm8.staticflickr.com/7022/6468099847_689cfaf404.jpg" width="500" alt="Colors after Rain"></a>
-<p>After the rain</p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/i-wdVvq8Q/0/M/6468099847fbdf854ea2o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/25087433_zMz5fN)
+After the rain
+{: .caption }
 
 At some point a taxi passed me with a blonde-haired gringo hanging out the
 window waving. It was an [old Swedish friend](http://www.smilingaway.com) from Cuenca/Vilcabamba on his way to Peru as well.
@@ -67,14 +61,9 @@ Before officially crossing into Peru there is a tiny control point signifying
 the end of Ecuador. They took my passport, did some stuff with it, asked me
 some questions, and let me fill up my water bottles. Adios!
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6468121799/" title="Leaving
-Ecuador by Ramblurr, on Flickr"><img
-src="http://farm8.staticflickr.com/7012/6468121799_ecc22b4578.jpg" width="500"
-height="333" alt="Leaving Ecuador"></a>
-<p>The tiny control point with two guards and my bike. Ecuador is back down
-that road. </p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/i-7jkkZhC/0/M/6468121799ff1b1aa352o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/25087433_zMz5fN)
+The tiny control point with two guards and my bike. Ecuador is back down that road.
+{: .caption }
 
 The last several km from the control to the actual border was some of the worst
 terrain of this trip so far. Horribly steep grades (both up and down) littered with potholes and rocks.
@@ -91,13 +80,9 @@ officials. After my beer I just rolled my bike over the bridge into Peru. From
 that point I could have kept going, for there was no one to stop me, but
 I figured it was prudent to search out someone to give me an entrance stamp.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6468112597/" title="Bridge to
-Peru by Ramblurr, on Flickr"><img
-src="http://farm8.staticflickr.com/7169/6468112597_6e3f961a4e.jpg" width="500"
-height="333" alt="Bridge to Peru"></a>
-<p>30 feet of sweet pavement between Peru and Ecuador<p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/i-4pqfbCD/0/M/64681125975cde47e6feo-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/25087433_zMz5fN)
+30 feet of sweet pavement between Peru and Ecuador
+{: .caption }
 
 The Peruvian migration officer is found in a little red building 50ft from the
 bridge in an unlabeled room. He was sleeping on a cot behind his desk. I gave
@@ -150,6 +135,6 @@ passport with a 180 day tourist visa.
 recommend it to anyone visiting South America. Feel free to ask me anything
 about it in comments or email.*
 
-<div class='stb-images_box'><a title="Ecuador Photos" href="http://www.flickr.com/photos/ramblurr/collections/72157626720307037/">See all photos from Ecuador</a></div>
+<div class='stb-images_box'><a title="Ecuador Photos" href="http://photos.elusivetruth.net/Ecuador">See all photos from Ecuador</a></div>
 
-[border]: http://www.flickr.com/photos/ramblurr/6468084967/in/set-72157628310964483
+[border]: http://photos.elusivetruth.net/Ecuador/Ecuador-Vilcabamba-to-Peru/25087433_zMz5fN#!i=2056101947&k=gsgQjxd&lb=1&s=M

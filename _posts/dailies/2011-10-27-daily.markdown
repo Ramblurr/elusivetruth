@@ -14,10 +14,6 @@ computer for 8+ hours.
 
 Broke up the bike box in the early afternoon. Amazingly, there was no damage to the frame, despite my shoddy packing job. Assembly was straightforward, and after tweaking the front brake, everything appeared to be working. Took it for a spin in the golden dusk on the streets of Guayaquil. Ate Chinese again.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/sets/72157628038573828/detail"
-title="Ruta del Sol Photos"><img
-src="http://farm7.static.flickr.com/6097/6306611679_1b3dcf9f0e.jpg" width="500"
-alt="Ruta del Sol"></a>
-<p>Assembling my bike at the hotel</p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Ruta-del-Sol-Bicycle/i-XNsFFWK/0/M/6306611679ea0719b91ao-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Ruta-del-Sol-Bicycle/25087682_xJgC4d)
+Assembling my bike at the hotel
+{: .caption }

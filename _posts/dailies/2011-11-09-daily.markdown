@@ -19,10 +19,9 @@ Stumbled across the *mercado* (open air market with cheap adhoc restaurants),
 and ended up relaxing for a bit for some more coffee and friendly conversation
 with the locals.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6337971148/" title="Roasted hog by Ramblurr, on Flickr"><img src="http://farm7.static.flickr.com/6052/6337971148_d3d9ddec27.jpg" width="500" alt="Roasted hog"></a>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca-to-Vilcabamba/i-4f4G24p/0/M/6337971148fe40d1610eo-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca-to-Vilcabamba/25087823_jkdcH6)
 <p>Whole roasted hog. Fresh all day.</p>
-</div>
+{: .caption }
 
 I noticed a man with a bicycle cart proffering a
 beverage in old grimy wine bottles. Curious, I asked to try a bit, to which he
@@ -42,18 +41,17 @@ Two and a half hours later I reached what I suppose to be the summit, as instead
 of constant uphill the terrain it morphed into rolling hills. I had a banana
 to celebrate my victory and resolved not to ask locals about the length of ascents again. The mental deception is too taxing; just concentrate on the road you can see in front of you.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6337969762/" title="1st Summit by Ramblurr, on Flickr"><img src="http://farm7.static.flickr.com/6214/6337969762_ab0009d52a.jpg" width="500" alt="1st Summit"></a>
-<p>Cheers! First mountain pass of the day conquered.</p>
-</div>
+
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca-to-Vilcabamba/i-ndSZLPk/0/M/633796976214bfd89d28o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca-to-Vilcabamba/25087823_jkdcH6)
+Cheers! First mountain pass of the day conquered.
+{: .caption }
 
 Ever since I had left Cuenca I had been fleeing from ominous storm clouds; around
 1pm they caught me. With the cold, harsh rain came a dense gray fog. The following several hours were some of the most thrilling riding I've done. Screaming down mountain passes, taking curves with 10 feet of visibility, all the while squinting in pain through the cold torrent, is a singular experience. Several hoots and hollers were belted out in my adrenaline filled furor.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6337977652/" title="Fog in the Mountains by Ramblurr, on Flickr"><img src="http://farm7.static.flickr.com/6054/6337977652_c12147d084.jpg" width="500" alt="Fog in the Mountains"></a>
-<p>Right before the rain came the fog.</p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca-to-Vilcabamba/i-NPMZM8j/0/M/633797765267000b551eo-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca-to-Vilcabamba/25087823_jkdcH6)
+Right before the rain came the fog.
+{: .caption }
 
 Eventually the rain and fog passed as I descended about 3,300 ft into a village, only to find another 3,500 foot ascent waiting for me. This time around I was chasing the sun into dusk. Determined to summit before dark, I pushed on; a multicultural medley of Spanish, English, and Arabic curse words carried me to the peak.
 

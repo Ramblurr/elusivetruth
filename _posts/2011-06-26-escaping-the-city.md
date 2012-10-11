@@ -30,18 +30,18 @@ We had no clue if camping was a possible, apparently camping isn't a popular act
 
 In reality, the bus just didn't go all the way to Quilotoa, which we would have known had be bothered to read our guide books or do any sort of planning. We stood around scratching our heads, wondering "what now?", for a total of 30 seconds before a local pounced offering to give us a ride in his truck for the modest (*cough cough*) fee of $6. We should have bargained, but we didn't. 
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/5854748129/" title="Quilotoa -&gt; Chugchilán by Ramblurr, on Flickr"><img src="http://farm3.static.flickr.com/2550/5854748129_210afbf724.jpg" alt="Hitching a ride in the back of a truck from Zumbahua to Quilotoa. This is Lindsay."></a><p>Hitching a ride in the back of a truck from Zumbahua to Quilotoa. This is Lindsay.</p></div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/i-RLTSkp6/0/M/5854748129dae74d19b9o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/25087633_TBwvCX#!i=2056124976)
+Hitching a ride in the back of a truck from Zumbahua to Quilotoa. This is Lindsay.
+{: .caption }
 
 Jumping off the truck in Quilotoa we were greeted with the vista below. Quilotoa is located on the edge of a large crater lake. Eight hundred years ago the volcano here exploded violently, leaving this beautiful caldera lake. The locals say it is bottomless, but scientists put it at an astonishing 820 feet deep (almost as tall as the empire state building).
 
-<a href="http://www.flickr.com/photos/ramblurr/5854748331/" title="Quilotoa -&gt; Chugchiláby Ramblurr, on Flickr"><img src="http://farm3.static.flickr.com/2549/5854748331_5025f58cf1.jpg" width="500" height="375" alt="Quilotoa -&gt; Chugchilá"></a>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/i-NPtpx7F/0/M/585474833174967edb43o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/25087633_TBwvCX#!i=2056125010)
+{: .caption }
 
 After eating some lunch and making sure Lindsay had recovered from the bus ride, we began the hike around the rim. Once again, had we done a little planning we would have known the rim was a much longer hike than it looked---a good five hours for fit hikers, which we were not. We started around two in the afternoon, confident we would make it back before dark. When six 'o clock rolled around, we were barely 60% of the way around and the sun was rapidly disappearing behind the horizon.  We had been looking for the opportunity to camp, and thanks to our carelessness, we had stumbled right into it. 
 
 With darkness came the wind and cold. We made a fire, but it was hard won. The wind was fierce, the kindling wet, and good firewood scarce, though we had demonstrated our first ounce of forethought by collecting semi-dry branches while hiking once it became apparent we would not make it all the way around before dusk. Even with the wood, our prospects for a fire looked bleak and Lindsay began to doubt that I had ever been a Boy Scout. Using half a pack of travel tissues I was able to make the fire hot enough to ignite the branches. We enjoyed our canned tuna next to our sad little fire as you can see in the video below.
-
-<object type="application/x-shockwave-flash" width="400" height="300" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=74ecf80974&photo_id=5854729783&flickr_show_info_box=true"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=74ecf80974&photo_id=5854729783&flickr_show_info_box=true" height="300" width="400"></embed></object>
 
 The next morning brought a cloudless sky and beautiful views of the countryside. We dismantled camp, spread and buried the remains of our fire (I'm happy to report we left no trace, aside from missing wood), and got back on the trail.
 
@@ -49,14 +49,18 @@ About an hour and a half into the remainder of the crater rim hike, we encounter
 
 This leg of the trek was even better than the crater rim trail. The trail took us down the side of a mountain, across the valley in the middle, and up the other side to the town. The views were stunning! Along the way we encountered many locals making the trek themselves with produce or livestock in tow. At times we felt pretty stupid for puffing and sweating from exertion, and lugging our big packs around, while the locals whizzed along in perfect shape. 
 
-<div class="caption"><object class="embedimg" data="http://www.elsewhere.org/mbedr/?p=5854754883&v" type="text/html" height="375" width="500"><a href="http://www.flickr.com/photos/ramblurr/5854754883/" title="The view of our hike to Chugchilán" target="_blank"><img src="http://farm6.static.flickr.com/5076/5854754883_41ac56ef38.jpg" width="500" height="375" alt="The view of our hike to Chugchilán"/></a></object><p>From this point we hiked down (see trail on left/bottom), across the valley, and then back up to the town of Chugchilan 7.5 miles away.</p></div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/i-hqT7NvD/0/M/5854754883a9d063d5c0o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/25087633_TBwvCX#!i=2056126183)
+From this point we hiked down (see trail on left/bottom), across the valley, and then back up to the town of Chugchilan 7.5 miles away.
+{: .caption }
 
 We made it to to Chugchilán just as it started to rain. Exhausted and starving we sought out a meal in the town, but being Sunday most places were closed. A local hostel owner saw us as a ripe business opportunity, though I would like to think she just took pity on us, and opened her kitchen. After a simple but satisfying meal we thanked our host and politely refused the offer to stay at $16 per night. Instead we implored a local truck owner to drive us back to Zumbahua, where we could catch a proper bus to Latacunga and finally Quito. He wanted $40, which was $10 more than the usual rate, but we didn't have much of a choice, and he knew it. While the driver happily fastened a tarp on the top of the truck, Thomas observed that the ride back along bumpy, unpaved roads in a rigid wooden truck-bed would be very uncomfortable. He recommended (in true German spirit) that we should buy a crate of beer to ease our suffering. We heartily agreed.
 
-<div class="caption"><object class="embedimg" data="http://www.elsewhere.org/mbedr/?p=5855308242&v" type="text/html" height="375" width="500"><a href="http://www.flickr.com/photos/ramblurr/5855308242/" title="Our ride back" target="_blank"><img src="http://farm3.static.flickr.com/2615/5855308242_eee5d45a06.jpg" width="500" height="375" alt="Our ride back"/></a></object><p>Exhausted, but full and slightly tipsy on our way back to Zumbahua.</p></div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/i-2hg4xn4/0/M/5855308242eaa9bc5f1fo-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/25087633_TBwvCX#!i=2056126348)
+Exhausted, but full and slightly tipsy on our way back to Zumbahua
+{: .caption }
 
 From Zumbahua it was straightforward getting buses back to Quito. That night, in my hostel bed, falling asleep to the sounds of car alarms and awful karaoke didn't bother me as much as before. We'll see how long it lasts. 
 
-<div class='stb-images_box'><a title="Hiking Quilotoa to Chugchilán Photos" href="http://www.flickr.com/photos/ramblurr/sets/72157627009996026/detail/">Click here to view all photos</a></div>
+<div class='stb-images_box'><a title="Hiking Quilotoa to Chugchilán Photos" href="http://photos.elusivetruth.net/Ecuador/Ecuador-Hiking-Quilotoa-to/25087633_TBwvCX">Click here to view all photos</a></div>
 
 [CS]: http://www.couchsurfing.org

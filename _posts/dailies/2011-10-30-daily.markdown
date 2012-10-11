@@ -15,19 +15,11 @@ Found a great hostel (Hostel Maxima) 1 block from the beach. The kind owners gra
 allowed me to setup my tent in the large grassy courtyward for only $2 per night with access to the shared
 bathrooms, kitchen, and oh-so-important WiFi.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/sets/72157628038573828/detail"
-title="Ruta del Sol Photos"><img
-src="http://farm7.static.flickr.com/6060/6306612807_08d33d150a.jpg" width="500"
-alt="Ruta del Sol"></a>
-<p>On the road between Puerto Cayo and Puerto Lopez</p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Ruta-del-Sol-Bicycle/i-KRMzNKQ/0/M/630661280719ae0ddf57o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Ruta-del-Sol-Bicycle/25087682_xJgC4d)
+On the road between Puerto Cayo and Puerto Lopez
+{: .caption }
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/sets/72157628038573828/detail"
-title="Ruta del Sol Photos"><img
-src="http://farm7.static.flickr.com/6120/6306613477_71da167f02.jpg" width="500"
-alt="Ruta del Sol"></a>
-<p>The courtyard of the hostel in Puerto Lopez. That is my tent
-there in the center.</p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Ruta-del-Sol-Bicycle/i-VzCRNHw/0/M/6306613477ab46e4c352o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Ruta-del-Sol-Bicycle/25087682_xJgC4d)
+The courtyard of the hostel in Puerto Lopez. That is my tent there in the center
+{: .caption }
+

@@ -18,13 +18,8 @@ Turns out taking a cargo ship from Guayaquil to the Galapagos is as expensive
 as flying. Bummed, I won't be able to see Janet, Wendy, or John over there.
 Wish them the best of luck.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/sets/72157627941259966/" title="Cuenca,
-Ecuador by Ramblurr, on Flickr"><img
-src="http://farm7.static.flickr.com/6212/6264740255_c272c1e45f.jpg" width="375"
-height="500" alt="Cuenca, Ecuador"></a>
-<p>Cuenca is gorgeous!</p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca/i-c3xshsH/0/L/6264740255dabef617e9o-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca/25087492_6XqkGp)
+{: .caption }
 
 So Sunday was spent on a bus. Arrived in Cuenca around 5pm. While I had been
 here before, I wasn't familiar with the neighborhood near the bus station. Once

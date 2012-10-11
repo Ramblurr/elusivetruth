@@ -38,10 +38,11 @@ can take care of themselves. Most importantly perhaps, they keep their heads
 about them when shit goes down. And, boy, did shit go down this trip.
 
 <div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6931472238/" title="Portrait by
-Ramblurr, on Flickr"><img
-src="http://farm6.staticflickr.com/5113/6931472238_502496985c.jpg" width="500"
-alt="Portrait"></a>
+<a
+href="http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/25087460_4LbZFM#!i=2056104906&k=GH72ZXK&lb=1&s=A"
+title="Portrait"><img
+src="http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/i-GH72ZXK/0/M/69314722385cdfe49fdeo-M.jpg"
+title="Portrait" alt="Portrait"></a>
 <p>Meet Bronwyn!</p>
 </div>
 
@@ -57,7 +58,13 @@ mark cultivated land peter out. The road changes as well; the gentle incline
 has turned upward sharply. We are headed out of the valley.
 
 <div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/7077532679/" title="Bare by Ramblurr, on Flickr"><img src="http://farm8.staticflickr.com/7194/7077532679_e6c13f3b81.jpg" width="500" alt="Bare"></a>
+<a
+href="http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/25087460_4LbZFM#!i=2056103908&k=2BZBxwW&lb=1&s=A"
+title="BareAbove the timber line in the Andes the rugged terrain bares
+all."><img
+src="http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/i-2BZBxwW/0/M/7077532679a94bd0dfceo-M.jpg"
+title="BareAbove the timber line in the Andes the rugged terrain bares all."
+alt="BareAbove the timber line in the Andes the rugged terrain bares all."></a>
 <p>The rough and rugged landscape of the Andes far above the timber line.</p>
 </div>
 
@@ -66,12 +73,14 @@ to adjust our MP3 players, both choosing suitable auditory motivation.  My
 choice is electronic music with a heavy, steady, and relentless beat. We each
 settle into our own private place and push off towards the apex.
 
-<div class="caption"> <a
-href="http://www.flickr.com/photos/ramblurr/6931628762/sizes/o/in/set-72157629452095632/"
-title="Up and Around by Ramblurr, on Flickr"><img
-src="http://farm8.staticflickr.com/7043/6931628762_b315f86590.jpg" width="500"
-alt="Up and Around"></a> <p>The curve where the steep incline more or less
-began</p> </div>
+<div class="caption">
+<a
+href="http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/25087460_4LbZFM#!i=2056104369&k=dv3HKp6&lb=1&s=A"
+title="Up and Around"><img
+src="http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/i-dv3HKp6/0/M/693162876279ac7fba74o-M.jpg"
+title="Up and Around" alt="Up and Around"></a>
+<p>The curve where the steep incline more or less began</p>
+</div>
 
 A mountain is something you must climb alone. You might be accompanied by
 others, but they don't climb the mountain for you. Only you can bring yourself
@@ -85,13 +94,9 @@ midday now and the weather is taking a turn. Dark ominous clouds roil overhead. 
 turn one corner to see the road ahead disappear into a thick white wall of fog.
 The temperature plummets.
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6931459088/" title="Top of the
-World by Ramblurr, on Flickr"><img
-src="http://farm8.staticflickr.com/7271/6931459088_96181cb318.jpg" width="500"
-alt="Top of the World"></a>
-<p>It's cold at wet at the top of the world.</p>
-</div>
+[![](http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/i-nj8TDf6/0/M/69314590887586027ef5o-M.jpg)](http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/25087460_4LbZFM)
+It's cold at wet at the top of the world.
+{: .caption }
 
 We press forward into the fog. A light frigid rain begins to spatter our coats.
 Before long the rain transforms into a wet heavy sleet that smacks into your
@@ -130,10 +135,12 @@ Several curves later we stumble across the sign indicating we've reached the sum
 Cold. Stark. Unassuming. We made it.
 
 <div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/7077536791/" title="Second Pass
-by Ramblurr, on Flickr"><img
-src="http://farm6.staticflickr.com/5338/7077536791_d933b7d044.jpg" width="500"
-alt="Second Pass"></a>
+<a
+href="http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/25087460_4LbZFM#!i=2056104426&k=nj8TDf6&lb=1&s=A"
+title="Top of the WorldCold, wet and foggy."><img
+src="http://photos.elusivetruth.net/Peru/Peru-Cusco-to-Puerto-Maldonado/i-nj8TDf6/0/M/69314590887586027ef5o-M.jpg"
+title="Top of the WorldCold, wet and foggy." alt="Top of the WorldCold, wet and
+foggy."></a>
 <p>Triumph!</p>
 </div>
 

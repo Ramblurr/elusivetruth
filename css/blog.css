@@ -90,7 +90,7 @@ img             { margin: 0; }
 p img           { float: none; }
 a img:hover { opacity: 0.8; }
 
-div.caption p { 
+p.caption, div.caption p { 
     text-align: center;
 }
 
@@ -192,7 +192,8 @@ div.archive h2+p {
         width:          43.286em;
         /*font:           1.077em/1.5 Georgia,Palatino,'Palatino Linotype',Times,'Times New Roman',serif*/;
         text-align:     justify;
-        margin:         1em auto;
+        /*margin:         1em auto;*/
+        padding-left: 0em;
     }
 .archive ol li {
     list-style: none;

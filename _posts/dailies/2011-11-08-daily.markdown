@@ -10,13 +10,9 @@ tags: [dailies]
 
 Cuenca is a gorgeous city (even when it is raining).
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/6265268494/" title="Cuenca,
-Ecuador by Ramblurr, on Flickr"><img
-src="http://farm7.static.flickr.com/6175/6265268494_9aa8551430.jpg" width="500"
-alt="Cuenca, Ecuador"></a>
-<p>In Cuenca's main plaza (photo by my friend Kate).</p>
-</div>
+[![](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca/i-5nTzt8X/0/M/6264740057ce4454604fo-M.jpg)](http://photos.elusivetruth.net/Ecuador/Ecuador-Cuenca/25087492_6XqkGp)
+In Cuenca's main plaza (photo by my friend Kate)
+{: .caption }
 
 Cuenca, however, is not a city for bicycles. If it isn't the lumpy
 centuries-old cobblestone rattling the teeth right out of your skull, then it

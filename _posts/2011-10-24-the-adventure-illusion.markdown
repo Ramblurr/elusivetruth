@@ -7,10 +7,9 @@ teaser: Planning a bike adventure takes an unexpected detour when the nature of 
 teaser-img: bike2
 ---
 
-<div class="caption">
-<a href="http://www.flickr.com/photos/ramblurr/sets/72157627808239141/with/6261287261/" title="First Bike Tour"><img src="http://elusivetruth.net/uploads/2011/10/bike-500.jpg" width="500" alt="My bike packed up" /></a>
-<p>My bike packed up, ready for an adventure. Bring it on world.</p>
-</div>
+[![](http://photos.elusivetruth.net/USA/First-Bike-Tour/i-VBDPMRd/0/M/6261287261bf8e030261o-M.jpg)](http://photos.elusivetruth.net/USA/First-Bike-Tour/25087660_2LRWDS)
+My bike packed up, ready for an adventure. Bring it on world.
+{: .caption }
 
 When people ask me why I'm always moving about, I usually respond with some excuse I cook up on the spot. "*Oh, well I'm trying to figure out where I want to settle down.*" or "*I just enjoy the change in scenery.*" Both true, but not the ultimate cause responsible for my nomadic tendencies. That would be the itch. Also known as wanderlust, though I prefer the term 'itch' to 'wanderlust' as it captures the peculiar tingling or irritating feeling wanderlust induces.
 
