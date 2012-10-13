@@ -1,0 +1,51 @@
+---
+layout: daily
+title: Flying is not travel
+uuid: b10d4052-3774-4056-94f3-ea8abfb1d5a9
+teaser: Daily travelogue update for 08 Oct 2012
+tags: [dailies]
+teaser-img: patdown
+---
+
+**From:** Somewhere over the Atlantic
+
+I'm currently some 30,000+ feet (9,000+ m) in the air on my *22nd plane* in
+4 months.
+
+Now, in this post I'm going to come off as a spoiled brat, but, after all, it
+is my journal. I reserve the right to rant occasionally.
+
+I'm sick of airplanes. Moving about in an airplane is not travel.
+
+<blockquote class="large">
+<p>Airplanes are a distortion of time and space. And you get frisked.</p>
+<p>&#8212;Paul Theroux</p>
+</blockquote>
+
+...except in our great nation we prefer molestation. Straight up, full on.
+
+When it's my turn for the hallowed ritual (and it's *always* my turn),
+I choose to assert my right to receive my back-handed fondle in public, rather
+then slink away to the private room.
+
+It's just my modest contribution to the absurdity of our [security theater][theater]:
+making the polite TSA agent cup my balls in public. *Yes, that's right
+everyone! Look over here, this fellow's job is to give me a firm rubdown in
+front of your kids.*
+
+
+![]({{site.base_url}}/uploads/2012/10/patdown.jpg)
+Checking for crotch bombs
+{: .caption }
+
+Ahem.
+
+State sponsored groping is not what I set about to journal when I began with
+the title "Flying is not travel," but the flight attendants are serving dinner
+and I have become quite worked up over a little friskiness.
+
+Going to tuck the pen and notebook into the seat-back pocket and return to the
+thought of "flying as travel" later.
+
+[theater]: http://www.techdirt.com/articles/20120330/04122218301/how-tsas-security-theater-harms-us-all.shtml
+
