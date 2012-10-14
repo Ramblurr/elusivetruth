@@ -32,14 +32,14 @@ layout: default
 
 
     <div id="read-more" style="margin-bottom:25px">
-    <h3 >Read More</h3>
+    <h3>Read More</h3>
     {% if prev_post %}
-<a href="{{ site.base_url }}{{ prev_post }}" title="Previous: {{ prev_post_title }}">&larr; Previous Daily</a>
-{% endif %}
+        <a href="{{ site.base_url }}{{ prev_post }}" title="Previous: {{ prev_post_title }}">&larr; Previous Daily</a> &#10023; 
+    {% endif %}
 
     <a href="/dailies/" title="Dailies Index">Dailies Index</a> {{ page.next_link }}
 {% if next_post %}
-                <a href="{{ site.base_url }}{{ next_post }}" title="Next: {{ next_post_title }}">Next Daily &rarr;</a>
+                &#10023; <a href="{{ site.base_url }}{{ next_post }}" title="Next: {{ next_post_title }}">Next Daily &rarr;</a>
 {% endif %}
     </div>
 
