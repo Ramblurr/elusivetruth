@@ -42,3 +42,5 @@ Phew! There. It's out. This was a difficult decision that has been long in the m
 I'm not quite sure what I am going to do once I tire of traveling, for I know it is not realistic to believe I'll always be consumed with this wanderlust. Though, at this point I'm not planning that far ahead. I've been planning my whole life since I was 13 years old. Right now my plans extend as far the end of August when my Ecuador visa expires. After that, who knows? Colombia? Peru? Africa? I'll worry about that when I get there.
 
 Enough planning. Enough thinking. **It's time to live in the moment.**
+
+<div class="stb-info_box"><a title="A Year Later" href="{{site.base_url}}/2012/10/08/a-year-later.html">Update: I reflect upon this decision a year later</a></div>
