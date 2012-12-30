@@ -16,17 +16,17 @@ teaser-img: hound
 
 
 The last three months were... extensive. The little bundles of experience are
-jostling in my skull still bright and vivid. Memory fades, I know this too
-well. Eventually I'll be grasping at memories of memory. Better get them onto
-paper, and that means a story.
+jostling in my skull still bright and vivid. But, memory fades, I know this too
+well. Eventually, I'll be grasping at memories of memory. Better get them onto
+paper. That means a story.
 
 I'm always interested in the characterization of stories, that is to say, how we
-frame them. Framing is important for any story, necessary even.
+frame them. Framing is necessary for any story.
 
 While I can remember the last few months with relative clarity, and revisit
 recently made memories, the sights, the sounds, the feelings, the friends, old
 and new, I cannot transfer that experience to paper without losing that
-visceral vibrancy.
+visceral vibrancy that breathes life into memories.
 
 So, I'm left with telling a story, which requires a proper perspective.
 I could frame story in terms of **geography**: Egypt, Tunisia, Ireland,
@@ -55,11 +55,11 @@ of good will. They invite me into their homes, share their food,
 their company, their troubles.
 
 Sometimes the encounters are short, chance passings on the side of the road.
-A nearly empty water bottle kindly offered through a window by an outstretched
+A water bottle kindly offered through a window by an outstretched
 arm when I've used up my water rations earlier than expected.
 
 Other times, I stay for weeks or months, taking up residence in a spare room or on
-a couch. True friendships develop.
+a couch. Cooking meals, sharing laughter, developing true friendships.
 
 The where and the why are irrelevant details in these stories, mere
 backdrop, *for these stories are about people.*
