@@ -38,8 +38,8 @@ for the first time on Christmas Day this year after buying my floating blue tran
 (pictured below).
 
 There's something about human-powered travel I find indelibly attractive.
-Applying a bit of sweat and wit to traverse long distances self-supported is my
-effort to push back against this machine dominated world of automation and
+Applying a bit of sweat and wit to traverse long distances is my
+little rebellion against this machine dominated world of automation and
 instant gratification.
 
 Now, self-supported *amphibious* human-powered transport, hah! What a notion!
@@ -49,7 +49,7 @@ obstruction.
 <div class="caption">
 <!--<img src="http://elusivetruth.net/uploads/2012/12/bikeraft.jpg" alt="" />-->
 <a href="http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/"><img src="/uploads/2012/12/bikeraft.jpg" alt="A bicycle folded up and strapped to an inflatable raft sitting in the water" /></a>
-<p>My bicycle and gear strapped to my packraft. They call this bikerafting.</p>
+<p>Bicycle and gear strapped to my packraft. They call this bikerafting.</p>
 </div>
 
 ### The Plan & Difficulties
@@ -64,7 +64,7 @@ kit has become standard practice for me.
 
 This is my first European winter, so we'll see how I fair. I will certainly
 encounter snow in Germany, and I can't imagine the paths along the River are
-high priority when it comes to snow plowing.
+high priority for the snow plows.
 
 Wikipedia informed me that the Rhine flows from Switzerland towards the
 Atlantic, which means I'll be peddling along shore upstream until I hit the
