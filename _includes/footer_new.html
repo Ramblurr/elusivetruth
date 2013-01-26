@@ -1,52 +1,37 @@
-                    </div>
-                </div>
-                <div class="span-7 last" id="sidebar">
-                        <div class="sidebox">
-                            <h3>What's this all about?</h3>
-                            <p>I'm Casey, a nomad and a programmer.</p><p>This is my travel chronicle.</p>
-                        </div>
-                        <div class="sidebox">
-                        <h3>Keep Updated</h3>
-                        <p>Want to get my posts right in your inbox?</p>
+                  </div> <!-- content div -->
+                </div> <!-- maincontent div -->
+            </div> <!-- page -->
+            </div> <!-- container -->
+            <div id="footer">
+            <div class="container">
+                <div class="span-24 last" id="sidebar">
+                    <div class="span-6 prepend-1 first">
+                       <h3>What's this all about?</h3>
 
-<form action="http://elusivetruth.us6.list-manage.com/subscribe/post?u=9b393e51116b735a8fb442883&amp;id=b5bf52dbdf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="feedburner-email validate" target="_blank" novalidate>
-<p class="buttons">
-                            <input type="text" class="rounded email" name="EMAIL" placeholder="Your e-mail address" /><button name="subscribe" type="submit">Yes I do!</button></p>
-</form>
+                       <p>I'm Casey, a nomad and a programmer. I value radical
+                       autonomy and material minimalism. I'm allergic to
+                       cubicles and cats.</p>
+
+                       <p> This is my travel chronicle.</p>
+
+                    </div>
+                    <div class="span-6 prepend-2">
+                        <h3>Want to get my updates in your inbox?</h3>
+                        <form action="http://elusivetruth.us6.list-manage.com/subscribe/post?u=9b393e51116b735a8fb442883&amp;id=b5bf52dbdf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="feedburner-email validate" target="_blank" novalidate>
+
+                        <p class="buttons">
+                            <input type="text" class="rounded email" name="EMAIL" placeholder="Your e-mail address" />
+                            <button name="subscribe" type="submit">Yes I do!</button></p>
+                        </form>
 
                         <p class="social-icons">
                         <a href="https://twitter.com/#!/Ramblurr" title="@Ramblurr on Twitter"><img src="/images/icons/twitter_32.png" /></a>
                         <a href="http://elusivetruth.net/feed" title="Subscribe to the feed!"><img src="/images/icons/feed_32.png" /></a>
                         <a href="http://photos.elusivetruth.net" title="See Casey's Photos"><img src="/images/icons/photos_32.png" /></a>
                         </p>
-                    </div>
 
-                    <div class="sidebox">
-                        <h3>Recent Dailies</h3>
-                        <ul>
-                            {% for post in site.tags.dailies limit:5 %}
-                            <li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
-                            {% endfor%}
-                            <li><a href="{{ site.base_url }}/dailies" title="Dailies">More Dailies...</a></li>
-                        </ul>
                     </div>
-                    <div class="sidebox">
-                        <h3>Recent Articles</h3>
-                        <ul>
-                            {% for post in site.tags.articles limit:5 %}
-                            <li><a href="{{ site.base_url }}{{post.url}}" title="{{post.title}}">{{ post.title }}</a></li>
-                            {% endfor%}
-                            <li><a href="{{ site.base_url }}/articles" title="Articles">More Articles...</a></li>
-                        </ul>
-                    </div>
-                   <!-- <div class="sidebox">
-                        <h3>Recent Opinions</h3>
-                        <div id="recentcomments" class="dsq-widget">
-                            <h2 class="dsq-widget-title"></h2>
-                            <script type="text/javascript" src="http://binaryelysium.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=1&avatar_size=24&excerpt_length=50"></script>
-                        </div>
-                    </div>-->
-                    <div class="sidebox">
+                    <div class="span-8 prepend-1 last">
                         <h3>Recent Photos</h3>
                         <style type="text/css">
                             .smugmug_image {margin:0px;display:inline;}
@@ -58,12 +43,15 @@
                        </div>
                         <a href="http://photos.elusivetruth.net" title="My photo site">View more of my photos...</a>
                     </div>
-                                    </div>
-                                </div>
-            <div class="span-24" id="footer">
-                &copy;2009-2012 Casey Link <br/> <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a> Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Share-Alike License</a></a><br />
+                    </div>
+ <div class="span-24" id="footer2">
+     &copy;2009-2013 Casey Link <br/> <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" title="Licensed under the Creative Commons Share-Alike License"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a>
+     <br />
         Powered by <a title="jekyll" href="http://jekyllrb.com/">jekyll</a>. Banner by <a href="http://headvoid.deviantart.com/" title="headvoid">headvoid</a>.
             </div>
+
+                </div>
+                       </div>
         </div>
     </body>
 </html>

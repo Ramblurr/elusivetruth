@@ -63,13 +63,13 @@ a:hover			{ color: #000; text-decoration: underline;}
 }
 
 #page {
-    background: url(../images/col-bg.gif) repeat-y 0 0;
+    background: white;
+    border-top: 1px solid #CCC;
 }
 
 #maincontent {
     margin-right:0px;
     background: white;
-    border-top: 1px solid #CCC;
 }
 .column { 
     padding-bottom : 32767px; 
@@ -77,13 +77,20 @@ a:hover			{ color: #000; text-decoration: underline;}
 } 
 #sidebar {
     min-height: 100%;
-    border-top: 1px solid #CCC;
 }
 
 #footer {
-    width: 945px;
     border-top: 4px solid #888;
-    color: #888;
+    padding-top: 10px;
+    color: white;
+    font-size: 16px;
+    background: #252525 url('/images/bg_footer.gif') repeat-x;
+    min-height: 262px;
+}
+
+#footer2 {
+    padding-top: 10px;
+    color: white;
     font-size: 16px;
 }
 
@@ -131,4 +138,9 @@ a:hover			{ color: #000; text-decoration: underline;}
     font-size: 16px;
     letter-spacing: 0.10em;
     border-bottom: 1px solid #000;
+}
+
+#footer .buttons {
+    float: left;
+    white-space:nowrap;
 }
