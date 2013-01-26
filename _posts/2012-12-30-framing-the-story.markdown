@@ -9,10 +9,9 @@ teaser-img: hound
 ---
 
 <div class="caption">
-<img src="http://elusivetruth.net/uploads/2012/12/hound.jpg" alt="" />
+<a href="http://photos.elusivetruth.net/Ireland/An-Irish-November-2012/27318104_Fm8bTt#!i=2296132769&k=LMZKh3D&lb=1&s=A" title="Lonely Hound"><img src="http://photos.elusivetruth.net/Ireland/An-Irish-November-2012/i-LMZKh3D/0/M/IMG_20121110_153511_v1-M.jpg" title="Lonely Hound" alt="Lonely Hound"></a>
 <p>This Irish fox hound doesn't care about any of this.</p>
 </div>
-
 
 
 The last three months were... extensive. The little bundles of experience are
