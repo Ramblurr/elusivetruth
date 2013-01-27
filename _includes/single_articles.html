@@ -11,7 +11,7 @@
                 </span>
             </div>
             {% if post.teaser-img %}
-            <a href="{{ post.url }}"><img class="header-img" src="{{site.base_url}}/uploads/{{ post.date | date: "%Y/%m"}}/{{ post.teaser-img }}-300x175.jpg" /></a>
+            <a href="{{ post.url }}"><img class="header-img" src="/uploads/{{ post.date | date: "%Y/%m"}}/{{ post.teaser-img }}-300x175.jpg" /></a>
             {% endif %}
             <p class="excerpt">{{ post.teaser | strip_html }}</p>
             <p class="buttons"><a href="{{site.base_url}}{{post.url}}" title="{{post.title}}">Continue Reading...</a><a class="post-comments positive" title="Leave your opinion/thoughts!" href="{{site.base_url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.uuid }}">Comments</a></p>
