@@ -189,6 +189,9 @@ ul li           { padding: 2px 0 2px 9px; background: url('../images/icons/bulle
 }
 
 /* Archives */
+.archive {
+    padding-top: 15px;
+}
 div.archive h2+p {
         width:      33.286em;
         padding:    1em;

@@ -13,7 +13,7 @@ pygments:    true
 markdown:    kramdown
 permalink:   date
 pagination: true
-paginate: 5
+paginate: 7
 
 base_url:  http://elusivetruth.net
 
