@@ -193,14 +193,12 @@ ul li           { padding: 2px 0 2px 9px; background: url('../images/icons/bulle
     padding-top: 15px;
 }
 div.archive h2+p {
-        width:      33.286em;
         padding:    1em;
         margin:     1em auto;
         border:     1px solid #999;
         background: #EEE;
     }
     div.archive ol {
-        width:          43.286em;
         /*font:           1.077em/1.5 Georgia,Palatino,'Palatino Linotype',Times,'Times New Roman',serif*/;
         text-align:     justify;
         /*margin:         1em auto;*/
@@ -219,20 +217,24 @@ div.archive h2+p {
     height: 0;
     clear: both;
     visibility: hidden;
-} 
-.archive ol li h3
+}
+.post h3 a
 {
+    margin-bottom: .5em;
+    font-size:      1.3em;
+    font-variant:   small-caps;
+    text-transform: capitalize;
+
+}
+.archive ol li h3 {
     margin-bottom: .5em;
     float: left;
 }
     .archive ol li h3 a:first-child {
         margin-bottom:  0.25em;
-        margin-left:    -20px;
-        /*font:           1.143em/1.25 Georgia,Palatino,'Palatino Linotype',Times,'Times New Roman',serif*/;
         font-variant:   small-caps;
         text-transform: capitalize;
         text-align:     left;
-        width:          490px;
     }
     .archive ol li.internal h3 a:first-child {
         font-size:      1.3em;
