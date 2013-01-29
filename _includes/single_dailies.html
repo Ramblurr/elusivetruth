@@ -9,5 +9,7 @@
 
                 <div class="entry">
                     {{ post.content | markdownize }}
+
+            <p class="buttons"><a class="post-comments positive" title="Leave your opinion/thoughts!" href="{{site.base_url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.uuid }}">Share your thoughts</a></p>
                 </div>
 </div>
