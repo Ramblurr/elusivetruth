@@ -4,6 +4,7 @@ title: North Sea to Black Sea - Week 1
 uuid: abdd1238-e03e-4667-9bd2-c4da1c5f5547
 teaser: Daily travelogue update for 09 Jan 2013
 tags: [dailies]
+date: 2013-01-29 11:06:00
 ---
 
 <div class="caption">
