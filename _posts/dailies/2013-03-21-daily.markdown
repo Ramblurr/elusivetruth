@@ -6,12 +6,6 @@ teaser: Daily travelogue update for 21 Mar 2013
 tags: [dailies]
 ---
 
-<div class="caption">
-<iframe src="http://binaryelysium.com/journey/current/" style="margin: 0; padding:0; border: none; width: 810px; height: 450px; overflow: hidden;" scrolling="no"></iframe>
-<p>My progress so far in green on my journey from the North Sea to the Black Sea by bicycle and raft. (<a href="http://binaryelysium.com/journey/" target="_blank" title="Alantic to Black Sea by Inland Waterways">larger map</a>)</p>
-</div>
-
-
 **From:** Mainz, Germany (February 29, 2013)
 
 Today I say farewell to the river Rhine as I take a turn onto the river Main.

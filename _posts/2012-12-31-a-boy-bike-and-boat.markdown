@@ -79,8 +79,8 @@ arduous challenges will be finding rural camping spots (I hope to eat these word
 
 <div class="caption">
 <p>Here's an interactive map of the route I'll be following along the rivers:</p>
-<iframe src="http://binaryelysium.com/journey/500px.html" style="margin: 0; padding:0; border: none; width: 600px; height: 500px; overflow: hidden;" scrolling="no"></iframe>
-<p>My inland waterway route across Europe <a href="http://binaryelysium.com/journey/" target="_blank" title="Alantic to Black Sea by Inland Waterways">(full screen map)</a></p>
+<iframe src="/map.html" style="margin: 0; padding:0; border: none; width: 100%; height: 450px; overflow: hidden;" scrolling="no"></iframe>
+<p>My inland waterway route across Europe <a href="http://elusivetruth.net/map.html" target="_blank" title="Alantic to Black Sea by Inland Waterways">(larger map)</a></p>
 </div>
 
 ### Interesting Statistics

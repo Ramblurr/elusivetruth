@@ -7,11 +7,6 @@ tags: [dailies]
 date: 2013-01-29 11:06:00
 ---
 
-<div class="caption">
-<iframe src="http://binaryelysium.com/journey/nl/" style="margin: 0; padding:0; border: none; width: 810px; height: 450px; overflow: hidden;" scrolling="no"></iframe>
-<p>My approximate route. (<a href="http://binaryelysium.com/journey/" target="_blank" title="Alantic to Black Sea by Inland Waterways">larger map</a>)</p>
-</div>
-
 **From:** Kleve, Germany (January 9, 2012)
 
 We're a bit more than a week into 2013 and I'm a week into my <a href="http://elusivetruth.net/2012/12/31/a-boy-bike-and-boat.html"
