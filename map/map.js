@@ -1,3 +1,5 @@
+var native_map;
+
 function main() {
 
 // Get url parameters
@@ -5,7 +7,7 @@ var params = {};
 window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m, key, value) {
   params[key] = value;
 });
- 
+
 if (params.layers) {
   var activeLayers = params.layers.split(',').map(function(item) { // map function not supported in IE < 9
     return layers[item];
@@ -14,7 +16,7 @@ if (params.layers) {
 
 
   var options = {
-    center: [params.lat || 13, params.lng || 0],
+    center: [params.lat || 20, params.lng || 0],
     zoom: params.zoom || 3,
     zoomControl: false,  // dont add the zoom overlay (it is added by default)
     loaderControl: false, //dont show tiles loader
@@ -35,7 +37,6 @@ if (params.layers) {
       layer.infowindow.set('template', $('#infowindow_template').html());
 
        layer.on('featureOver', function(e, pos, latlng, data) {
-           cartodb.log.log(data);
            $('.leaflet-container').css('cursor','default')
            if( data.url != null ) {
                 $('.leaflet-container').css('cursor','pointer')
@@ -53,6 +54,15 @@ if (params.layers) {
                 window.location = data.url;
             }
             });
+    cartodb.createLayer(native_map, points_url)
+      .on('done', function(layer) {
+          native_map.addLayer(layer)
+          layer.setInteractivity('cartodb_id,name,description');
+          layer.infowindow.set('template', $('#infowindow_template').html());
+          layer.on('featureClick', function(e, pos, latlng, data) {
+            console.log("clicked! " + data.name)
+          });
+      });
 
       // add the tooltip show when hover on the point
       vis.addOverlay({
@@ -67,8 +77,7 @@ if (params.layers) {
         position: 'top|right'
       });
 
-
-    });
+          });
 
 }
 

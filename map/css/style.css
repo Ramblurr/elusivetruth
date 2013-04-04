@@ -128,18 +128,44 @@ div.cartodb-popup div.cartodb-popup-cont{
 	max-height: none;
 }
 
+div.cartodb-popup-content-wrapper ul {
+    width: 240px;
+    padding:0;
+    margin:0;
+    display: block;
+}
+div.cartodb-popup-content-wrapper ul li {
+position:relative;
+float:left;
+display:inline;
+list-style-type:none;
+padding:0;
+margin:0;
+}
+
+div.cartodb-popup-content-wrapper ul li img {
+vertical-align:top; 
+    border:1px solid gray; /* or 0px */
+}
+
+div.cartodb-popup-content-wrapper ul li h4{
+}
 div.cartodb-popup div.cartodb-popup-cont h4{
 	font-family: Times New Roman, Times, serif;
 	font-size: 25px;
 	color:#FFF;
-	position: absolute;
 	text-transform: none;
 	font-weight: normal;
 	z-index: 5px;
-	top:98px;
-	left: 14px;
-	text-shadow: 0 1px 0 #000;
+	text-shadow: 0 1px 0.2em rgba(0,0,0,1.0);
 	letter-spacing: -1px;
+    padding: 5px;
+    position:absolute; /* Important */
+    width:100%; /* Important */
+    bottom:0; /* Important */
+    left:0;
+    background-color:rgba(0, 0, 0, 0.4);
+    filter:alpha(opacity=50);3
 }
 
 div.cartodb-popup div.cartodb-popup-cont a.videoButton{
@@ -161,6 +187,7 @@ div.cartodb-popup div.cartodb-popup-cont p{
 	font-size: 14px;
 	padding: 12px 15px 0 15px;
 	opacity: .5;
+    clear: both;
 }
 
 div.cartodb-popup div.cartodb-popup-tip-container{
