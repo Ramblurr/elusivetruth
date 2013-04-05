@@ -20,8 +20,12 @@
         <a href="#close" class="cartodb-popup-close-button close">x</a>
          <div class="cartodb-popup-content-wrapper">
            <div class="cartodb-popup-cont">
-
+            {{#content.data.img}}
+            <ul><li><img src='img/points/{{content.data.img}}.png'/><h4>{{content.data.name}}</h4></li></ul>
+            {{/content.data.img}}
+            {{^content.data.img}}
             <ul><li><img src='img/background.png'/><h4>{{content.data.name}}</h4></li></ul>
+            {{/content.data.img}}
             {{#content.data.video_url}}
               <a class="videoButton" href="{{content.data.video_url}}" target="_blank"> </a>
             {{/content.data.video_url}}

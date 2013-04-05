@@ -57,10 +57,10 @@ if (params.layers) {
     cartodb.createLayer(native_map, points_url)
       .on('done', function(layer) {
           native_map.addLayer(layer)
-          layer.setInteractivity('cartodb_id,name,description');
           layer.infowindow.set('template', $('#infowindow_template').html());
+          layer.setInteractivity('cartodb_id,name,description');
           layer.on('featureClick', function(e, pos, latlng, data) {
-            console.log("clicked! " + data.name)
+            console.log("clicked! " + data.img_small)
           });
       });
 
