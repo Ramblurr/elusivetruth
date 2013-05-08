@@ -94,6 +94,10 @@ a:hover			{ color: #000; text-decoration: underline;}
     font-size: 16px;
 }
 
+#footer2 a {
+    color: rgb(142, 166, 233);
+}
+
 #nav ul {
     margin: 0px 170px 0 0;
     padding: 0;
