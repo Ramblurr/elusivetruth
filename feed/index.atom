@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Elusive Truth</title>
- <link href="http://elusivetruth.net/feed/" rel="self"/>
- <link href="http://elusivetruth.net/"/>
- <updated>2013-05-08T23:25:12+01:00</updated>
+ <link href="http://feeds.elusivetruth.net" rel="self"/>
+ <link href="http://elusivetruth.net" />
+ <updated>2013-05-09T10:35:05+02:00</updated>
  <id>http://elusivetruth.net/</id>
  <author>
    <name>Casey Link</name>
@@ -15,9 +15,9 @@
  <entry>
    <title>A Temporary Defeat</title>
    <link href="http://elusivetruth.net/2013/05/08/daily.html" />
-   <published>2013-05-08T00:00:00+01:00</published>
+   <published>2013-05-08T00:00:00+02:00</published>
    
-   <updated>2013-05-08T00:00:00+01:00</updated>
+   <updated>2013-05-08T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2013/05/08/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Straubing, Germany &lt;em&gt;(March 26, 2013)&lt;/em&gt;&lt;/p&gt;
@@ -537,9 +537,9 @@ backdrop, &lt;em&gt;for these stories are about people.&lt;/em&gt;&lt;/p&gt;
  <entry>
    <title>Flying is not travel</title>
    <link href="http://elusivetruth.net/2012/10/13/daily.html" />
-   <published>2012-10-13T00:00:00+01:00</published>
+   <published>2012-10-13T00:00:00+02:00</published>
    
-   <updated>2012-10-13T00:00:00+01:00</updated>
+   <updated>2012-10-13T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2012/10/13/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Somewhere over the Atlantic&lt;/p&gt;
@@ -586,9 +586,9 @@ thought of “flying as travel” later.&lt;/p&gt;
  <entry>
    <title>A Year Later</title>
    <link href="http://elusivetruth.net/2012/10/08/a-year-later.html" />
-   <published>2012-10-08T00:00:00+01:00</published>
+   <published>2012-10-08T00:00:00+02:00</published>
    
-   <updated>2012-10-08T00:00:00+01:00</updated>
+   <updated>2012-10-08T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2012/10/08/a-year-later</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.forbes.com/sites/jessicahagy/2012/10/04/40-things-to-say-before-you-die/&quot; title=&quot;Serenity&quot;&gt;&lt;img src=&quot;http://elusivetruth.net/uploads/2012/10/serenity.jpg&quot; alt=&quot;Honesty + Integrity = Serenity&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -661,9 +661,9 @@ success.&lt;/p&gt;
  <entry>
    <title>Summer's End</title>
    <link href="http://elusivetruth.net/2012/10/01/daily.html" />
-   <published>2012-10-01T00:00:00+01:00</published>
+   <published>2012-10-01T00:00:00+02:00</published>
    
-   <updated>2012-10-01T00:00:00+01:00</updated>
+   <updated>2012-10-01T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2012/10/01/daily</id>
    <content type="html">&lt;p&gt;My &lt;a href=&quot;http://binaryelysium.com/quechua/&quot;&gt;Quechua language study project&lt;/a&gt; was abruptly cut short in May when
@@ -695,9 +695,9 @@ weeks to brush up on my Arabic before beginning a Middle Eastern bike tour.&lt;/
  <entry>
    <title>Dead vs Living Stories</title>
    <link href="http://elusivetruth.net/2012/04/20/daily.html" />
-   <published>2012-04-20T00:00:00+01:00</published>
+   <published>2012-04-20T00:00:00+02:00</published>
    
-   <updated>2012-04-20T00:00:00+01:00</updated>
+   <updated>2012-04-20T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2012/04/20/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Cusco, Peru&lt;/p&gt;
@@ -769,9 +769,9 @@ pinning them to paper and hoping that in the process I’m not wringing too much
  <entry>
    <title>Cusco to Puerto Maldonado, 490km (bike) - Part 1</title>
    <link href="http://elusivetruth.net/2012/04/11/daily.html" />
-   <published>2012-04-11T00:00:00+01:00</published>
+   <published>2012-04-11T00:00:00+02:00</published>
    
-   <updated>2012-04-11T00:00:00+01:00</updated>
+   <updated>2012-04-11T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2012/04/11/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Cusco, Peru&lt;/p&gt;
@@ -906,9 +906,9 @@ a little screaming).&lt;/p&gt;
  <entry>
    <title>A Jungle Sojourn</title>
    <link href="http://elusivetruth.net/2012/03/28/daily.html" />
-   <published>2012-03-28T00:00:00+01:00</published>
+   <published>2012-03-28T00:00:00+02:00</published>
    
-   <updated>2012-03-28T00:00:00+01:00</updated>
+   <updated>2012-03-28T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2012/03/28/daily</id>
    <content type="html">&lt;div class=&quot;caption&quot;&gt;
@@ -1859,9 +1859,9 @@ a whale.&lt;/p&gt;
  <entry>
    <title>Puerto Cayo to Puerto Lopez, 33km (bicycle)</title>
    <link href="http://elusivetruth.net/2011/10/30/daily.html" />
-   <published>2011-10-30T00:00:00+01:00</published>
+   <published>2011-10-30T00:00:00+02:00</published>
    
-   <updated>2011-10-30T00:00:00+01:00</updated>
+   <updated>2011-10-30T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/10/30/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Puerto Lopez, Ecuador&lt;/p&gt;
@@ -1885,9 +1885,9 @@ The courtyard of the hostel in Puerto Lopez. That is my tent there in the center
  <entry>
    <title>Manta to Puerto Cayo, 77km (bicycle)</title>
    <link href="http://elusivetruth.net/2011/10/29/daily.html" />
-   <published>2011-10-29T00:00:00+01:00</published>
+   <published>2011-10-29T00:00:00+02:00</published>
    
-   <updated>2011-10-29T00:00:00+01:00</updated>
+   <updated>2011-10-29T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/10/29/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Puerto Cayo, Ecuador&lt;/p&gt;
@@ -1928,9 +1928,9 @@ First glimpse of the ocean!&lt;/p&gt;
  <entry>
    <title>Guayaquil to Manta (bus)</title>
    <link href="http://elusivetruth.net/2011/10/28/daily.html" />
-   <published>2011-10-28T00:00:00+01:00</published>
+   <published>2011-10-28T00:00:00+02:00</published>
    
-   <updated>2011-10-28T00:00:00+01:00</updated>
+   <updated>2011-10-28T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/10/28/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Manta, Ecuador&lt;/p&gt;
@@ -1953,9 +1953,9 @@ the night, private room+bathroom, “hot water”, and cable TV. Good enough.&lt
  <entry>
    <title>Guayaquil, Ecuador (day 2)</title>
    <link href="http://elusivetruth.net/2011/10/27/daily.html" />
-   <published>2011-10-27T00:00:00+01:00</published>
+   <published>2011-10-27T00:00:00+02:00</published>
    
-   <updated>2011-10-27T00:00:00+01:00</updated>
+   <updated>2011-10-27T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/10/27/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Guayaquil, Ecuador&lt;/p&gt;
@@ -1974,9 +1974,9 @@ Assembling my bike at the hotel&lt;/p&gt;
  <entry>
    <title>Miami to Guayaquil, Ecuador (plane)</title>
    <link href="http://elusivetruth.net/2011/10/26/daily.html" />
-   <published>2011-10-26T00:00:00+01:00</published>
+   <published>2011-10-26T00:00:00+02:00</published>
    
-   <updated>2011-10-26T00:00:00+01:00</updated>
+   <updated>2011-10-26T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/10/26/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Guayaquil, Ecuador&lt;/p&gt;
@@ -1997,9 +1997,9 @@ could fit the large bicycle box. After much frantic scrambling on their part–t
  <entry>
    <title>The Adventure Illusion or: how I learned to stop thinking and just ride a bike</title>
    <link href="http://elusivetruth.net/2011/10/24/the-adventure-illusion.html" />
-   <published>2011-10-24T00:00:00+01:00</published>
+   <published>2011-10-24T00:00:00+02:00</published>
    
-   <updated>2011-10-24T00:00:00+01:00</updated>
+   <updated>2011-10-24T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/10/24/the-adventure-illusion</id>
    <content type="html">&lt;p class=&quot;caption&quot;&gt;&lt;a href=&quot;http://photos.elusivetruth.net/USA/First-Bike-Tour/25087660_2LRWDS&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/USA/First-Bike-Tour/i-VBDPMRd/0/M/6261287261bf8e030261o-M.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
@@ -2073,9 +2073,9 @@ My bike packed up, ready for an adventure. Bring it on world.&lt;/p&gt;
  <entry>
    <title>...and we're back!</title>
    <link href="http://elusivetruth.net/2011/10/16/...and-we%27re-back.html" />
-   <published>2011-10-16T00:00:00+01:00</published>
+   <published>2011-10-16T00:00:00+02:00</published>
    
-   <updated>2011-10-16T00:00:00+01:00</updated>
+   <updated>2011-10-16T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/10/16/...and-we're-back</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://elusivetruth.net/uploads/2011/10/lazy.jpg&quot; width=&quot;500&quot; alt=&quot;Open!&quot; /&gt;&lt;/p&gt;
@@ -2108,9 +2108,9 @@ My bike packed up, ready for an adventure. Bring it on world.&lt;/p&gt;
  <entry>
    <title>These aren't real problems</title>
    <link href="http://elusivetruth.net/2011/07/26/these-aren%27t-real-problems.html" />
-   <published>2011-07-26T00:00:00+01:00</published>
+   <published>2011-07-26T00:00:00+02:00</published>
    
-   <updated>2011-07-26T00:00:00+01:00</updated>
+   <updated>2011-07-26T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/07/26/these-aren't-real-problems</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/apofica/4926676049/&quot; title=&quot;2010 en Montañ (2) by Jorge Luis Perez, on Flickr&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4140/4926676049_a068c8f2dc.jpg&quot; width=&quot;500&quot; alt=&quot;2010 en Montañ (2)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2161,9 +2161,9 @@ My bike packed up, ready for an adventure. Bring it on world.&lt;/p&gt;
  <entry>
    <title>Coming out...so to speak</title>
    <link href="http://elusivetruth.net/2011/07/23/coming-out-so-to-speak.html" />
-   <published>2011-07-23T00:00:00+01:00</published>
+   <published>2011-07-23T00:00:00+02:00</published>
    
-   <updated>2011-07-23T00:00:00+01:00</updated>
+   <updated>2011-07-23T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/07/23/coming-out-so-to-speak</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/stuckincustoms/4076310756/&quot; title=&quot;The Road by Stuck in Customs, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2744/4076310756_e35702feec.jpg&quot; width=&quot;500&quot; alt=&quot;The Road&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2209,9 +2209,9 @@ My bike packed up, ready for an adventure. Bring it on world.&lt;/p&gt;
  <entry>
    <title>Dancing in Pujili</title>
    <link href="http://elusivetruth.net/2011/07/02/dancing-in-pujili.html" />
-   <published>2011-07-02T00:00:00+01:00</published>
+   <published>2011-07-02T00:00:00+02:00</published>
    
-   <updated>2011-07-02T00:00:00+01:00</updated>
+   <updated>2011-07-02T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/07/02/dancing-in-pujili</id>
    <content type="html">&lt;p&gt;The past couple weeks I have been hanging out with a local Ecuadorian named Ana. She’s originally from here in Quito, but is well traveled and speaks English quite well, though I try to to get by in Spanish as much as possible. Her best personality trait, and the reason I’m even writing this update on this topic, is just how friendly and open she is about sharing her country and culture. Case in point, after only hanging out twice she invited me to travel with her family on a day-trip to &lt;a href=&quot;http://en.wikipedia.org/wiki/Pujil%C3%AD&quot;&gt;Pujili, Ecuador&lt;/a&gt; (that’s &lt;em&gt;Poo-hi-li&lt;/em&gt;) to watch the Corpus Christi Festival. Without her I wouldn’t have had this unforgettable experience, thanks Ana!&lt;/p&gt;
@@ -2238,9 +2238,9 @@ These two photos illustrate the large differences in regional style.&lt;/p&gt;
  <entry>
    <title>Escaping the City</title>
    <link href="http://elusivetruth.net/2011/06/26/escaping-the-city.html" />
-   <published>2011-06-26T00:00:00+01:00</published>
+   <published>2011-06-26T00:00:00+02:00</published>
    
-   <updated>2011-06-26T00:00:00+01:00</updated>
+   <updated>2011-06-26T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/26/escaping-the-city</id>
    <content type="html">&lt;p&gt;For the past several weeks I’ve essentially been living in Quito, Ecuador. Most people would probably disagree that I’m ‘living’ here, after all, I’ve only been here four weeks. While I don’t claim to know Quito particularly well, it certainly feels like I’m living here. For me, ‘living’ someplace implies a routine or a certain regularity to your activities. ‘Traveling’ suggests just the opposite. Travelers rarely do the same thing more than once in the same location. For example, I walk the same way to Spanish lessons every day, frequent the same grocery store, and grab an espresso at the same cafe. Travelers might do some of those things, but it would be exceptional for one to make a repeat visit. Whereas, I have fallen into a predictable routine:&lt;/p&gt;
@@ -2302,9 +2302,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>Ecuador Ransoming Protected Rainforest?</title>
    <link href="http://elusivetruth.net/2011/06/21/ecuador-ransoming-protected-rainforest.html" />
-   <published>2011-06-21T00:00:00+01:00</published>
+   <published>2011-06-21T00:00:00+02:00</published>
    
-   <updated>2011-06-21T00:00:00+01:00</updated>
+   <updated>2011-06-21T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/21/ecuador-ransoming-protected-rainforest</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/joshbousel/4056414751/&quot; title=&quot;Yasuni National Park by joshbousel, on Flickr&quot;&gt;&lt;img class=&quot;imghead&quot; src=&quot;http://farm3.static.flickr.com/2428/4056414751_38ff922420.jpg&quot; width=&quot;500&quot; height=&quot;332&quot; alt=&quot;Yasuni National Park&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2323,9 +2323,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>An Amazon Expedition (part 2)</title>
    <link href="http://elusivetruth.net/2011/06/21/an-amazon-expedition-part-2.html" />
-   <published>2011-06-21T00:00:00+01:00</published>
+   <published>2011-06-21T00:00:00+02:00</published>
    
-   <updated>2011-06-21T00:00:00+01:00</updated>
+   <updated>2011-06-21T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/21/an-amazon-expedition-part-2</id>
    <content type="html">&lt;p&gt;When &lt;a title=&quot;An Amazon Expedition (part 1)&quot; href=&quot;http://elusivetruth.net/post/6339375909/an-amazon-expedition-part-1&quot;&gt;I last left the story&lt;/a&gt; of my Amazon trip, my new friends and I had boarded a canoe &lt;!--END--&gt;and   headed into the Amazon Rainforest. The area we were headed into is called the Cuyabeno, a   portion of the Amazon rainforest in Ecuador. The Cuyabeno is a series of interconnected   lakes, lagoons, rivers, and floating forests that eventually drains into the Amazon River.   It is one of the most biodiverse locations in the world.&lt;/p&gt;
@@ -2367,9 +2367,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>An Amazon Expedition (part 1)</title>
    <link href="http://elusivetruth.net/2011/06/08/an-amazon-expedition-part-1.html" />
-   <published>2011-06-08T00:00:00+01:00</published>
+   <published>2011-06-08T00:00:00+02:00</published>
    
-   <updated>2011-06-08T00:00:00+01:00</updated>
+   <updated>2011-06-08T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/08/an-amazon-expedition-part-1</id>
    <content type="html">&lt;p&gt;I spent 3 nights and 4 days deep in the Amazon Jungle. It was unforgettable.&lt;/p&gt;
@@ -2419,9 +2419,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>I have Jungle Fever</title>
    <link href="http://elusivetruth.net/2011/06/06/i-have-jungle-fever.html" />
-   <published>2011-06-06T00:00:00+01:00</published>
+   <published>2011-06-06T00:00:00+02:00</published>
    
-   <updated>2011-06-06T00:00:00+01:00</updated>
+   <updated>2011-06-06T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/06/i-have-jungle-fever</id>
    <content type="html">&lt;img src=&quot;http://30.media.tumblr.com/tumblr_lmdop49QiA1qkeurno1_500.jpg&quot;/&gt;&lt;br/&gt;&lt;p&gt;Just returned to Quito from a 4 day Amazon Jungle Expedition, and I appear to have acquired some sort of Jungle Spots on my hands and all the way up my arms.&lt;/p&gt;
@@ -2433,9 +2433,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>Cooking is Cheap</title>
    <link href="http://elusivetruth.net/2011/06/06/cooking-is-cheap.html" />
-   <published>2011-06-06T00:00:00+01:00</published>
+   <published>2011-06-06T00:00:00+02:00</published>
    
-   <updated>2011-06-06T00:00:00+01:00</updated>
+   <updated>2011-06-06T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/06/cooking-is-cheap</id>
    <content type="html">&lt;img src=&quot;http://28.media.tumblr.com/tumblr_lmecixT1aV1qkeurno1_500.jpg&quot;/&gt;&lt;br/&gt;&lt;p&gt;My first self-cooked dinner in Ecuador: thin beef steak cooked rare with butter browned chopped onion and two avocado slices. I used my hostel&amp;#8217;s tidy little kitchen. All in all it cost about $1.50.&lt;br/&gt;&lt;br/&gt;Tomorrow for &lt;em&gt;desayunos&lt;/em&gt; (breakfast): eggs and chorizo sausage with a local &lt;em&gt;ahi&lt;/em&gt; (chile) sauce/salsa.&lt;br/&gt;&lt;br/&gt;I&amp;#8217;m still working on the Amazon Jungle photos.&lt;/p&gt;
@@ -2445,9 +2445,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>Journey to the Middle of the World</title>
    <link href="http://elusivetruth.net/2011/06/04/journey-to-the-middle-of-the-world.html" />
-   <published>2011-06-04T00:00:00+01:00</published>
+   <published>2011-06-04T00:00:00+02:00</published>
    
-   <updated>2011-06-04T00:00:00+01:00</updated>
+   <updated>2011-06-04T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/04/journey-to-the-middle-of-the-world</id>
    <content type="html">&lt;p&gt;I took a day trip from Quito to the equator (from which Ecuador takes its name) with a very friendly British couple (Lewis and Sara). &lt;/p&gt;
@@ -2461,9 +2461,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>One Man's Pet...</title>
    <link href="http://elusivetruth.net/2011/06/02/one-man-s-pet.html" />
-   <published>2011-06-02T00:00:00+01:00</published>
+   <published>2011-06-02T00:00:00+02:00</published>
    
-   <updated>2011-06-02T00:00:00+01:00</updated>
+   <updated>2011-06-02T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/02/one-man-s-pet</id>
    <content type="html">&lt;p&gt;One of my favorite aspects of traveling is the eating exotic food. This one might strike a little close to home.&lt;/p&gt;
@@ -2480,9 +2480,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>The Kindness of Strangers</title>
    <link href="http://elusivetruth.net/2011/06/01/the-kindness-of-strangers.html" />
-   <published>2011-06-01T00:00:00+01:00</published>
+   <published>2011-06-01T00:00:00+02:00</published>
    
-   <updated>2011-06-01T00:00:00+01:00</updated>
+   <updated>2011-06-01T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/06/01/the-kindness-of-strangers</id>
    <content type="html">&lt;p&gt;Solo traveling is an inherently complicated and risky endeavor. A foreigner wandering city streets alone makes an inviting quarry for street toughs and petty thieves. Even something simple as going to the bathroom when in a restaurant or cafe becomes difficult as the solitary traveler has no one to watch their things or their back.&lt;/p&gt;
@@ -2521,9 +2521,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>Packing ultra-light</title>
    <link href="http://elusivetruth.net/2011/05/30/packing-ultra-light.html" />
-   <published>2011-05-30T00:00:00+01:00</published>
+   <published>2011-05-30T00:00:00+02:00</published>
    
-   <updated>2011-05-30T00:00:00+01:00</updated>
+   <updated>2011-05-30T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/05/30/packing-ultra-light</id>
    <content type="html">&lt;p&gt;Being separated from their luggage is fear shared by all budget travelers. This phobia is colloquially known as Backpackers Separation Anxiety (BSA). Often when traveling by bus or van, everyone&amp;#8217;s luggage is heaped together in the underside storage compartment accessible from the outside. If the bus makes frequent stops the only guard you have against someone grabbing your bag is the trustworthiness of your fellow passengers, not a comforting situation. Not to mention that checking baggage when flying is inherently risky, and, more recently, a significant expense.&lt;/p&gt;
@@ -2561,9 +2561,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>My Traveling Motto</title>
    <link href="http://elusivetruth.net/2011/05/28/my-traveling-motto.html" />
-   <published>2011-05-28T00:00:00+01:00</published>
+   <published>2011-05-28T00:00:00+02:00</published>
    
-   <updated>2011-05-28T00:00:00+01:00</updated>
+   <updated>2011-05-28T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2011/05/28/my-traveling-motto</id>
    <content type="html">&lt;blockquote class=&quot;large&quot;&gt;&lt;p&gt;It does not matter how slowly you go as long as you do not stop.&lt;/p&gt;&lt;p&gt;&amp;#8212;Confucius&lt;/p&gt;&lt;/blockquote&gt;
@@ -2573,9 +2573,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>The City of a Thousand Minarets</title>
    <link href="http://elusivetruth.net/2009/05/28/the-city-of-a-thousand-minarets.html" />
-   <published>2009-05-28T00:00:00+01:00</published>
+   <published>2009-05-28T00:00:00+02:00</published>
    
-   <updated>2009-05-28T00:00:00+01:00</updated>
+   <updated>2009-05-28T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2009/05/28/the-city-of-a-thousand-minarets</id>
    <content type="html">&lt;img src=&quot;http://24.media.tumblr.com/tumblr_lm17i828mf1qkeurno1_500.jpg&quot;/&gt;&lt;br/&gt;&lt;p&gt;A view from the far end of Al-Azhar park. The round domes and spiring minarets of countless mosques give Cairo the nickname &lt;em&gt;City of a Thousand Minarets.&lt;/em&gt;&lt;/p&gt;
@@ -2585,9 +2585,9 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
  <entry>
    <title>A Close Call at the Coiffeur</title>
    <link href="http://elusivetruth.net/2009/05/28/a-close-call-at-the-coiffeur.html" />
-   <published>2009-05-28T00:00:00+01:00</published>
+   <published>2009-05-28T00:00:00+02:00</published>
    
-   <updated>2009-05-28T00:00:00+01:00</updated>
+   <updated>2009-05-28T00:00:00+02:00</updated>
    
    <id>http://elusivetruth.net/2009/05/28/a-close-call-at-the-coiffeur</id>
    <content type="html">&lt;p&gt;&lt;em&gt;&amp;#8220;Zamalek or Ahly?&amp;#8221;&lt;/em&gt; asked the barber as he grazed the straight-edge razor across my Adam&amp;#8217;s Apple. Maybe he anticipated my flinch or maybe I&amp;#8217;m just lucky to have escaped an accidental throat slitting. Either way I didn&amp;#8217;t muse over my fortuitousness for more than a second, because the barber was eyeing me through the mirror expectantly, with his blade still at my throat. My Adam&amp;#8217;s Apple&amp;#8217;s wellbeing was on the razor&amp;#8217;s edge.&lt;br/&gt;&lt;br/&gt;Some background facts:&lt;/p&gt;
