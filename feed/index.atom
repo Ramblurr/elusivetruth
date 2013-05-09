@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Elusive Truth</title>
- <link href="http://elusivetruth.net/feed/" rel="self"/>
- <link href="http://elusivetruth.net/"/>
+ <link href="http://feeds.elusivetruth.net" rel="self"/>
+ <link href="http://elusivetruth.net" />
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://elusivetruth.net/</id>
  <author>
