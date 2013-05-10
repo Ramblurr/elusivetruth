@@ -3,7 +3,7 @@ layout: daily
 title: Spring in Austria
 uuid: 46bad98c-932e-45d2-b7c4-8a8f59eac2ed
 teaser: Daily travelogue update for 10 May 2013
-teaser-img: spring
+teaser-img: austria
 tags: [dailies]
 ---
 
