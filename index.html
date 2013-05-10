@@ -30,9 +30,15 @@ Currently, I am <a href="/2012/12/31/a-boy-bike-and-boat.html" title="A Boy, His
 <h2>Latest Daily Log</h2>
 {% for post in site.tags.dailies limit:1 %}
         {% include single_dailies.html %}
-<p class="buttons"><a href="{{site.base_url}}/dailies" title="Read more daily logs">Read more dailies...</a><a class="post-comments positive" title="Leave your opinion/thoughts!" href="{{site.base_url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.uuid }}">Comments</a></p>
-{% endfor %}
+<div id="read-more">
+<p class="buttons">
+<a href="{{ post.previous.url }}" title="{{ post.previous.title}}">← {{post.previous.title}}</a></h3>
+<a href="{{site.base_url}}/dailies" title="Read more daily logs">All Dailies</a>
+</p>
+</div>
 
+
+{% endfor %}
 
 <h2>Latest Articles</h2>
 <div class="archive">
