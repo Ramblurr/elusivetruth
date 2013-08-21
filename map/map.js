@@ -27,7 +27,7 @@ function main() {
 
         native_map = vis.getNativeMap();
         // there are two layers, base layer and points layer
-        var route_layer = layers[1].getSubLayer(0);
+        var route_layer = layers[1].getSubLayer(1);
         route_layer.setInteraction(true);
         route_layer.infowindow.set('template', $('#infowindow_template').html());
         route_layer.set({
@@ -48,32 +48,29 @@ function main() {
             position: 'top|right'
         });
 
-        /*
         route_layer.on('featureOver', function(e, pos, latlng, data) {
-            $('.leaflet-container').css('cursor', 'default');
-            if (data.url !== null) {
-                $('.leaflet-container').css('cursor', 'pointer');
-            }
             if (data.cartodb_id != polyline.cartodb_id) {
                 drawHoverLine(data);
             }
         });
         route_layer.on('featureOut', function(e, pos, latlng, data) {
-            $('.leaflet-container').css('cursor', 'default');
             removeLine();
         });
         route_layer.on('featureClick', function(e, pos, latlng, data) {
-            if (data.url !== null) {
-                window.location = data.url;
-            }
+            // no-op
         });
-        */
 
-        var point_layer = layers[1].getSubLayer(1);
+        var point_layer = layers[1].getSubLayer(0);
         point_layer.setInteraction(true);
         point_layer.infowindow.set('template', $('#infowindow_template').html());
         point_layer.set({
             interactivity: 'cartodb_id,name,description'
+        });
+        point_layer.on('featureOver', function(e, pos, latlng, data) {
+            $('.leaflet-container').css('cursor', 'pointer');
+        });
+        point_layer.on('featureOut', function(e, pos, latlng, data) {
+            $('.leaflet-container').css('cursor', 'default');
         });
         point_layer.on('featureClick', function(e, pos, latlng, data) {
             // no-op
