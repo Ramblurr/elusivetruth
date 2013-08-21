@@ -96,6 +96,7 @@ div.cartodb_tooltip p {
 div.cartodb-popup {
 	background: none;
 	width: 240px;
+    margin: 0;
 	padding: 0;
 	-moz-border-radius-topright: 4px;
 	border-top-right-radius: 4px;
@@ -110,6 +111,7 @@ div.cartodb-popup a.cartodb-popup-close-button{
 }
 
 div.cartodb-popup div.cartodb-popup-content-wrapper{
+    margin: 0;
 	padding: 0;
 	width: 240px;
 	max-width: none;
@@ -121,8 +123,13 @@ div.cartodb-popup div.cartodb-popup-content-wrapper{
 	border-top-left-radius: 4px;
 }
 
-div.cartodb-popup div.cartodb-popup-cont{
+div.cartodb-popup .jspPane {
+    padding: 0 !important;
+}
+
+div.cartodb-popup div.cartodb-popup-content {
 	width: 248px;
+    margin: 0;
 	max-width: none;
 	max-height: none;
 }
@@ -143,13 +150,15 @@ margin:0;
 }
 
 div.cartodb-popup-content-wrapper ul li img {
-vertical-align:top; 
+    margin: 0;
+    vertical-align:top; 
     border:1px solid gray; /* or 0px */
 }
 
 div.cartodb-popup-content-wrapper ul li h4{
 }
 div.cartodb-popup div.cartodb-popup-content h4{
+    margin: 0;
 	font-family: Times New Roman, Times, serif;
 	font-size: 25px;
 	color:#FFF;
