@@ -93,7 +93,6 @@ div.cartodb_tooltip p {
 }
 
 /*SYLES FOR THE CUSTOM INFOWINDOW*/
-
 div.cartodb-popup {
 	background: none;
 	width: 240px;
@@ -150,7 +149,7 @@ vertical-align:top;
 
 div.cartodb-popup-content-wrapper ul li h4{
 }
-div.cartodb-popup div.cartodb-popup-cont h4{
+div.cartodb-popup div.cartodb-popup-content h4{
 	font-family: Times New Roman, Times, serif;
 	font-size: 25px;
 	color:#FFF;
@@ -168,7 +167,7 @@ div.cartodb-popup div.cartodb-popup-cont h4{
     filter:alpha(opacity=50);3
 }
 
-div.cartodb-popup div.cartodb-popup-cont a.videoButton{
+div.cartodb-popup div.cartodb-popup-content a.videoButton{
 	background: url(../img/videoButton.png) 0 0 no-repeat;
 	width: 20px;
 	height: 17px;
@@ -178,11 +177,11 @@ div.cartodb-popup div.cartodb-popup-cont a.videoButton{
 	right: 14px;
 }
 
-div.cartodb-popup div.cartodb-popup-cont a.videoButton:hover{
+div.cartodb-popup div.cartodb-popup-content a.videoButton:hover{
 	background: url(../img/videoButton.png) 0 -17px no-repeat;
 }
 
-div.cartodb-popup div.cartodb-popup-cont p{
+div.cartodb-popup div.cartodb-popup-content p{
 	font-family: "robotoregular", Helvetica, Arial, Sans-serif;
 	font-size: 14px;
 	padding: 12px 15px 0 15px;
