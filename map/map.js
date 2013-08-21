@@ -14,6 +14,17 @@ function main() {
         });
     }
 
+    if(params.place) {
+        if(params.place == "europe") {
+            params.lat = 48;
+            params.lng = 14;
+            params.zoom = 5;
+        } else if(params.place == "south-america") {
+            params.lat = -3;
+            params.lng = -49;
+            params.zoom = 4;
+        }
+    }
 
     var options = {
         center: [params.lat || 20, params.lng || 0],
