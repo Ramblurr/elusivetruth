@@ -93,10 +93,10 @@ div.cartodb_tooltip p {
 }
 
 /*SYLES FOR THE CUSTOM INFOWINDOW*/
-
 div.cartodb-popup {
 	background: none;
 	width: 240px;
+    margin: 0;
 	padding: 0;
 	-moz-border-radius-topright: 4px;
 	border-top-right-radius: 4px;
@@ -111,6 +111,7 @@ div.cartodb-popup a.cartodb-popup-close-button{
 }
 
 div.cartodb-popup div.cartodb-popup-content-wrapper{
+    margin: 0;
 	padding: 0;
 	width: 240px;
 	max-width: none;
@@ -122,8 +123,13 @@ div.cartodb-popup div.cartodb-popup-content-wrapper{
 	border-top-left-radius: 4px;
 }
 
-div.cartodb-popup div.cartodb-popup-cont{
+div.cartodb-popup .jspPane {
+    padding: 0 !important;
+}
+
+div.cartodb-popup div.cartodb-popup-content {
 	width: 248px;
+    margin: 0;
 	max-width: none;
 	max-height: none;
 }
@@ -144,13 +150,15 @@ margin:0;
 }
 
 div.cartodb-popup-content-wrapper ul li img {
-vertical-align:top; 
+    margin: 0;
+    vertical-align:top; 
     border:1px solid gray; /* or 0px */
 }
 
 div.cartodb-popup-content-wrapper ul li h4{
 }
-div.cartodb-popup div.cartodb-popup-cont h4{
+div.cartodb-popup div.cartodb-popup-content h4{
+    margin: 0;
 	font-family: Times New Roman, Times, serif;
 	font-size: 25px;
 	color:#FFF;
@@ -159,7 +167,7 @@ div.cartodb-popup div.cartodb-popup-cont h4{
 	z-index: 5px;
 	text-shadow: 0 1px 0.2em rgba(0,0,0,1.0);
 	letter-spacing: -1px;
-    padding: 5px;
+    padding: 3px;
     position:absolute; /* Important */
     width:100%; /* Important */
     bottom:0; /* Important */
@@ -168,7 +176,7 @@ div.cartodb-popup div.cartodb-popup-cont h4{
     filter:alpha(opacity=50);3
 }
 
-div.cartodb-popup div.cartodb-popup-cont a.videoButton{
+div.cartodb-popup div.cartodb-popup-content a.videoButton{
 	background: url(../img/videoButton.png) 0 0 no-repeat;
 	width: 20px;
 	height: 17px;
@@ -178,11 +186,11 @@ div.cartodb-popup div.cartodb-popup-cont a.videoButton{
 	right: 14px;
 }
 
-div.cartodb-popup div.cartodb-popup-cont a.videoButton:hover{
+div.cartodb-popup div.cartodb-popup-content a.videoButton:hover{
 	background: url(../img/videoButton.png) 0 -17px no-repeat;
 }
 
-div.cartodb-popup div.cartodb-popup-cont p{
+div.cartodb-popup div.cartodb-popup-content p{
 	font-family: "robotoregular", Helvetica, Arial, Sans-serif;
 	font-size: 14px;
 	padding: 12px 15px 0 15px;
