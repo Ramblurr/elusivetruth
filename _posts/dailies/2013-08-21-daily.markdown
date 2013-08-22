@@ -3,6 +3,7 @@ layout: daily
 title: Into Eastern Europe
 uuid: 01d34afa-a718-40e8-98a2-b7ce89d25c8f
 teaser: Daily travelogue update for 21 Aug 2013
+teaser-img: budapest
 tags: [dailies]
 ---
 
