@@ -35,6 +35,10 @@ function main() {
         zoom: params.zoom || 3,
         zoomControl: true,
         loaderControl: false,
+        infowindow: false,
+        shareable: false,
+        title: false,
+        searchControl: false
     };
 
     var travel_url = 'http://elusivetruth.cartodb.com/api/v2/viz/d8b9da38-0a4d-11e3-8c39-3085a9a956e8/viz.json';
@@ -59,16 +63,21 @@ function main() {
 
         // HACK - manually add overlay to attach it to your route layer
         // re: https://github.com/CartoDB/cartodb.js/issues/64
-        /*
+
+       /*
         vis.addOverlay({
             type: 'infobox',
-            template: '<h3>{{name}}</h3><p>{{description}}</p>',
+            template: '<h3>{{name}}</h3><p>{{{description}}}</p>',
             width: 200,
             position: 'top|right'
         });
-        */
-        var infobox = new cdb.geo.ui.InfoBox({ template: '<h3>{{name}}</h3><p>{{description}}</p>', layer: route_layer, position: 'top|right', width: 200 });
+       */
+        //vis.getOverlay('infobox').enable();
+
+        var infobox = new cdb.geo.ui.InfoBox({ template: '<h3>{{name}}</h3><p>{{{description}}}</p>', layer: route_layer, position: 'top|right', width: 200 });
         vis.container.append(infobox.render().el);
+        infobox.show();
+        infobox.hide();
 
         route_layer.on('featureOver', function(e, pos, latlng, data) {
             if (data.cartodb_id != polyline.cartodb_id) {
