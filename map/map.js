@@ -23,7 +23,11 @@ function main() {
             params.lat = -3;
             params.lng = -49;
             params.zoom = 4;
-        }
+        } else if(params.place == "balkans") {
+            params.lat = 43;
+            params.lng = 19;
+            params.zoom = 6;
+       }
     }
 
     var options = {
