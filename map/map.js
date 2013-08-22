@@ -23,7 +23,11 @@ function main() {
             params.lat = -3;
             params.lng = -49;
             params.zoom = 4;
-        }
+        } else if(params.place == "balkans") {
+            params.lat = 43;
+            params.lng = 19;
+            params.zoom = 6;
+       }
     }
 
     var options = {
@@ -38,7 +42,8 @@ function main() {
 
         native_map = vis.getNativeMap();
         // there are two layers, base layer and points layer
-        var route_layer = layers[1].getSubLayer(1);
+        var route_layer = layers[1].getSubLayer(0);
+        var point_layer = layers[1].getSubLayer(1);
         route_layer.setInteraction(true);
         route_layer.infowindow.set('template', $('#infowindow_template').html());
         route_layer.set({
@@ -52,12 +57,18 @@ function main() {
             template: '<p>{{name}}</p>'
         });
 
+        // HACK - manually add overlay to attach it to your route layer
+        // re: https://github.com/CartoDB/cartodb.js/issues/64
+        /*
         vis.addOverlay({
             type: 'infobox',
             template: '<h3>{{name}}</h3><p>{{description}}</p>',
             width: 200,
             position: 'top|right'
         });
+        */
+        var infobox = new cdb.geo.ui.InfoBox({ template: '<h3>{{name}}</h3><p>{{description}}</p>', layer: route_layer, position: 'top|right', width: 200 });
+        vis.container.append(infobox.render().el);
 
         route_layer.on('featureOver', function(e, pos, latlng, data) {
             if (data.cartodb_id != polyline.cartodb_id) {
@@ -71,7 +82,6 @@ function main() {
             // no-op
         });
 
-        var point_layer = layers[1].getSubLayer(0);
         point_layer.setInteraction(true);
         point_layer.infowindow.set('template', $('#infowindow_template').html());
         point_layer.set({

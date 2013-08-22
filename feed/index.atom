@@ -4,13 +4,26 @@
  <title>Elusive Truth</title>
  <link href="http://feeds.elusivetruth.net" rel="self"/>
  <link href="http://elusivetruth.net" />
- <updated>2013-08-21T15:56:33+02:00</updated>
+ <updated>2013-08-22T12:55:15+02:00</updated>
  <id>http://elusivetruth.net/</id>
  <author>
    <name>Casey Link</name>
    <email>kc@binaryelysium.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Into Eastern Europe</title>
+   <link href="http://elusivetruth.net/2013/08/21/daily.html" />
+   <published>2013-08-21T00:00:00+02:00</published>
+   
+   <updated>2013-08-21T00:00:00+02:00</updated>
+   
+   <id>http://elusivetruth.net/2013/08/21/daily</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Novi Sad, Serbia (June 01, 2013)&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Spring in Austria</title>

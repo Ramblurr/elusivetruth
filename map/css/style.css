@@ -123,6 +123,8 @@ div.cartodb-popup div.cartodb-popup-content-wrapper{
 	border-top-left-radius: 4px;
 }
 
+div.cartodb-popup .jspContainer {
+}
 div.cartodb-popup .jspPane {
     padding: 0 !important;
 }
@@ -136,6 +138,7 @@ div.cartodb-popup div.cartodb-popup-content {
 
 div.cartodb-popup-content-wrapper ul {
     width: 240px;
+    height: 135px;
     padding:0;
     margin:0;
     display: block;
@@ -209,6 +212,26 @@ div.cartodb-popup div.cartodb-popup-tip-container{
 	border-bottom-left-radius: 4px;
 	margin-bottom: 10px;
 }
+
+  div.cartodb-popup .jspContainer:after {
+    bottom:0px;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(255,255,255,0)), color-stop(100%, rgba(255,255,255,1)));
+    background: -webkit-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,1));
+    background: -moz-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,1));
+    background: -o-linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,1));
+    background: linear-gradient(top, rgba(255,255,255,0), rgba(255,255,255,1));
+    background: none;
+  }
+
+  div.cartodb-popup .jspContainer:before {
+    top:0px;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,0)));
+    background: -webkit-linear-gradient(top, rgba(255,255,255,1), rgba(255,255,255,0));
+    background: -moz-linear-gradient(top, rgba(255,255,255,1), rgba(255,255,255,0));
+    background: -o-linear-gradient(top, rgba(255,255,255,1), rgba(255,255,255,0));
+    background: linear-gradient(top, rgba(255,255,255,1), rgba(255,255,255,0));
+    background: none;
+  }
 
 div.cartodb-popup div.cartodb-popup-tip-container::after {
 	position: absolute;
