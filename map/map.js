@@ -35,7 +35,7 @@ function main() {
         zoom: params.zoom || 3,
         zoomControl: true,
         loaderControl: false,
-        infowindow: false,
+        infowindow: true,
         shareable: false,
         title: false,
         searchControl: false
