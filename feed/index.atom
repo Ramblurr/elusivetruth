@@ -4,7 +4,7 @@
  <title>Elusive Truth</title>
  <link href="http://feeds.elusivetruth.net" rel="self"/>
  <link href="http://elusivetruth.net" />
- <updated>2013-09-23T11:32:51+02:00</updated>
+ <updated>2014-03-04T15:01:37+01:00</updated>
  <id>http://elusivetruth.net/</id>
  <author>
    <name>Casey Link</name>
@@ -110,8 +110,8 @@ flags in sight.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
-&lt;a href=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/5-Slovakia-and-Hungary/i-qckFr9G/A&quot; title=&quot;That's an order I could follow.&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/5-Slovakia-and-Hungary/i-qckFr9G/1/L/DSC00429_v2-L.jpg&quot; title=&quot;That's an order I could follow.&quot; alt=&quot;That's an order I could follow.&quot; /&gt;&lt;/a&gt;
-&lt;p&gt;That's an order I could follow.&lt;/p&gt;
+&lt;a href=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/5-Slovakia-and-Hungary/i-qckFr9G/A&quot; title=&quot;That&#39;s an order I could follow.&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/5-Slovakia-and-Hungary/i-qckFr9G/1/L/DSC00429_v2-L.jpg&quot; title=&quot;That&#39;s an order I could follow.&quot; alt=&quot;That&#39;s an order I could follow.&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;That&#39;s an order I could follow.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
@@ -206,7 +206,7 @@ evening that I’m lucky to have shared with this sincerely awesome family.&lt;/
 &lt;a href=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/3-Austria/29315100_Zwv6Mm#!i=2500541469&amp;amp;k=2gDp7B8&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Castle&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/3-Austria/i-2gDp7B8/0/L/DSC00359_v2-L.jpg&quot; title=&quot;Castle&quot; alt=&quot;Castle&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/3-Austria/29315100_Zwv6Mm#!i=2500540794&amp;amp;k=jzxj928&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Sammy the Snail&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/3-Austria/i-jzxj928/0/L/DSC00352_v1-L.jpg&quot; title=&quot;Sammy the Snail&quot; alt=&quot;Sammy the Snail&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/3-Austria/29315100_Zwv6Mm#!i=2500540541&amp;amp;k=64MPdps&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Ahoy Balloons!&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/3-Austria/i-64MPdps/0/L/DSC00337_v1-L.jpg&quot; title=&quot;Ahoy Balloons!&quot; alt=&quot;Ahoy Balloons!&quot; /&gt;&lt;/a&gt;
-&lt;p /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;stb-images_box&quot;&gt;&lt;a title=&quot;Austria Photos&quot; href=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/3-Austria/29315100_Zwv6Mm&quot;&gt;
@@ -391,9 +391,9 @@ alone I must have passed half a dozen.&lt;/p&gt;
  <entry>
    <title>North Sea to Black Sea - Week 1</title>
    <link href="http://elusivetruth.net/2013/01/29/daily.html" />
-   <published>2013-01-29T12:06:00+01:00</published>
+   <published>2013-01-29T11:06:00Z</published>
    
-   <updated>2013-01-29T12:06:00+01:00</updated>
+   <updated>2013-01-29T11:06:00Z</updated>
    
    <id>http://elusivetruth.net/2013/01/29/daily</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;From:&lt;/strong&gt; Kleve, Germany (January 9, 2012)&lt;/p&gt;
@@ -401,39 +401,45 @@ alone I must have passed half a dozen.&lt;/p&gt;
 &lt;p&gt;We’re a bit more than a week into 2013 and I’m a week into my &lt;a href=&quot;http://elusivetruth.net/2012/12/31/a-boy-bike-and-boat.html&quot; title=&quot;A Boy, his Bike, and his Boat&quot;&gt;self-powered amphibious journey across
 Europe&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;On January 1 &lt;a href=&quot;http://elusivetruth.net/2013/01/27/power-of-beginnings.html&quot; title=&quot;Power of Beginning&quot;&gt;I began&lt;/a&gt;. Right proper on the beach of Holland’s North Sea
-coast, where, best I could figure, some majority of the silted water molecules
-flowing out into the grey expanse once went by the name River Rhine.&lt;/p&gt;
+&lt;p&gt;On January 1 &lt;a href=&quot;http://elusivetruth.net/2013/01/27/power-of-beginnings.html&quot; title=&quot;Power of Beginning&quot;&gt;I began&lt;/a&gt;. The romantic in me insisted I begin as close as
+possible to that point where the River Rhine delta disappears into the North Sea,
+otherwise the Sea-to-Sea narrative would be a sham.&lt;/p&gt;
 
 &lt;p&gt;Tracking down the end of a river isn’t a straightforward task, you see, for
 the great pulsing artery of life, trade, and history that is the river Rhine
-was rent open some 200 km away by the scalpel of some prehistoric geographic
-surgeon millennia ago. As with any artery, there’s no such thing as a clean
+was torn open some 200 km away by the scalpel of some prehistoric geographic
+surgeon millennia ago. Much like a human artery, there’s rarely a clean
 incision. Yes, a river’s end is a messy affair. It squirts and gushes in
-branching streams that spill through the landscape.&lt;/p&gt;
+branching streams that run through the landscape until it is swallowed by the Sea.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Delta&lt;/em&gt; – what a benign word for such a lurid end&lt;/p&gt;
+&lt;p&gt;After tracing lines on a map and I found a beach on Holland’s North Sea coast, where,
+best I could figure, some majority of the silted water molecules flowing out
+into the grey expanse fancied themselves the River Rhine.&lt;/p&gt;
 
-&lt;p&gt;Having seemingly located my estuary I strolled across the brown sand on that
-brisk winter morning and sought the profound. That’s something we do, us
-wandering dreamers, the mad ones… in our crazed pursuit of the euphoric we squeeze the
-moment tight like a wet piece of laundry. We want to suck up every last bit of
-serenity, inhale it, steep ourselves in the ecstasy of the extemporaneous.&lt;/p&gt;
+&lt;p&gt;Strolling across the beach on that brisk winter morning full of beginnings
+I sought the moment. It’s a ritual I’ve learned from other wandering dreamers,
+other mad ones, madder than I. In our pursuit of the euphoric we squeeze the
+moment tight like a wet piece of laundry. We suck up every last bit of
+serenity, inhale it, steep ourselves in the ecstasy of the extemporaneous. Its
+the traveler’s high.&lt;/p&gt;
 
-&lt;p&gt;The salty chill biting my flushing face, the gentle give of the sand underfoot,
-firm grip of bike in hand, the road, that glorious symbol of freedom and life,
-stretching ahead into the unknown, breathing in the spirit of the open… with
-these fragments of experience I had the makings of quite a traveler’s high.&lt;/p&gt;
+&lt;p&gt;So for a moment I stood there, feeling the gentle give of the sand underfoot,
+and the heavy weight of my bike packed with the trappings of my life. The salty
+chill stung my flushing face as the wind rushed past. The river’s confluence
+with the sea murmured steadily while the gulls road that chilly wind up into
+the sky. Their intermittent caws, praises to the great open, lifted my spirit
+and I saw the road, that glorious symbol of freedom and life, stretching ahead
+into the enticing unknown.&lt;/p&gt;
 
-&lt;p&gt;Alas, the momentousness of it all conspired against me. Moments can’t be wrung
-for joy the way you wring water from a towel.&lt;/p&gt;
+&lt;p&gt;And the moment passed, wrung of all its beauty. Those fragments of experience
+lingered but the wholeness of it was gone. It was time to move on.&lt;/p&gt;
 
-&lt;p&gt;Robbed of the rapturous opening I had expected (darn expectations) I snapped
-a selfy and turned my back to the Sea. River on my right. I peddled upstream.&lt;/p&gt;
+&lt;p&gt;I snapped a selfie, turned my back to the Sea and with the river on my right
+I peddled upstream.&lt;/p&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
 &lt;a href=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/27335003_PST6gn#!i=2338023214&amp;amp;k=SN6vxwt&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;At the North Sea, a beginning.&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/i-SN6vxwt/0/L/IMG_20130102_094442_v3-L.jpg&quot; title=&quot;At the North Sea, a beginning.&quot; alt=&quot;At the North Sea, a beginning.&quot; /&gt;&lt;/a&gt;
-&lt;p /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Cycling in the Netherlands is unique experience. There are no hills, unless you
@@ -461,32 +467,32 @@ photos can attest to this decidedly gorgeous weather.&lt;/p&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
  &lt;a href=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/27335003_PST6gn#!i=2308888660&amp;amp;k=r7qbNzc&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;On the way out of Rotterdam&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/i-r7qbNzc/0/L/IMG_20130101_150057_v1-L.jpg&quot; title=&quot;On the way out of Rotterdam&quot; alt=&quot;On the way out of Rotterdam&quot; /&gt;&lt;/a&gt;
-&lt;p /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
  &lt;a href=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/27335003_PST6gn#!i=2297812877&amp;amp;k=PQ6bfWQ&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Camping on the edge of the river Oude Maas, one of the distributaries of the Rhine.&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/i-PQ6bfWQ/0/L/IMG_20121225_124405_v1-L.jpg&quot; title=&quot;Camping on the edge of the river Oude Maas, one of the distributaries of the Rhine.&quot; alt=&quot;Camping on the edge of the river Oude Maas, one of the distributaries of the Rhine.&quot; /&gt;&lt;/a&gt;
-&lt;p /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
  &lt;a href=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/27335003_PST6gn#!i=2297814697&amp;amp;k=CP6sBs6&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Panorama of the curious bridge structure&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/i-CP6sBs6/0/L/PANO_20121229_143048_v1-L.jpg&quot; title=&quot;Panorama of the curious bridge structure&quot; alt=&quot;Panorama of the curious bridge structure&quot; /&gt;&lt;/a&gt;
-&lt;p /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
  &lt;a href=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/27335003_PST6gn#!i=2308888127&amp;amp;k=6W5KWct&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Rotterdam&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/i-6W5KWct/0/L/IMG_20130101_143522_v1-L.jpg&quot; title=&quot;Rotterdam&quot; alt=&quot;Rotterdam&quot; /&gt;&lt;/a&gt;
-&lt;p /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
  &lt;a href=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/27335003_PST6gn#!i=2308888958&amp;amp;k=dm978C3&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Industry&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/i-dm978C3/0/L/IMG_20130101_160124_v1-L.jpg&quot; title=&quot;Industry&quot; alt=&quot;Industry&quot; /&gt;&lt;/a&gt;
-&lt;p /&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
  &lt;a href=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/27335003_PST6gn#!i=2308890160&amp;amp;k=wBw5qM2&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Stealth Camping along the Rhine&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/i-wBw5qM2/0/L/IMG_20130104_084120-L.jpg&quot; title=&quot;Stealth Camping along the Rhine&quot; alt=&quot;Stealth Camping along the Rhine&quot; /&gt;&lt;/a&gt;
- &lt;p /&gt;
+ &lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 </content>
@@ -495,9 +501,9 @@ photos can attest to this decidedly gorgeous weather.&lt;/p&gt;
  <entry>
    <title>The Power of Beginning</title>
    <link href="http://elusivetruth.net/2013/01/27/power-of-beginnings.html" />
-   <published>2013-01-27T13:48:00+01:00</published>
+   <published>2013-01-27T12:48:00Z</published>
    
-   <updated>2013-01-27T13:48:00+01:00</updated>
+   <updated>2013-01-27T12:48:00Z</updated>
    
    <id>http://elusivetruth.net/2013/01/27/power-of-beginnings</id>
    <content type="html">&lt;div class=&quot;caption&quot;&gt;
@@ -594,7 +600,7 @@ obstruction.&lt;/p&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
 &lt;!--&lt;img src=&quot;http://elusivetruth.net/uploads/2012/12/bikeraft.jpg&quot; alt=&quot;&quot; /&gt;--&gt;
-&lt;a href=&quot;http://photos.elusivetruth.net/TheNetherlands/Rotterdam-2012/&quot;&gt;&lt;img src=&quot;http://elusivetruth.net/uploads/2012/12/bikeraft.jpg&quot; alt=&quot;A bicycle folded up and strapped to an inflatable raft sitting in the water&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://photos.elusivetruth.net/Bikerafting-Europe-2013/TheRhine&quot;&gt;&lt;img src=&quot;http://elusivetruth.net/uploads/2012/12/bikeraft.jpg&quot; alt=&quot;A bicycle folded up and strapped to an inflatable raft sitting in the water&quot; /&gt;&lt;/a&gt;
 &lt;p&gt;Bicycle and gear strapped to my packraft. They call this bikerafting.&lt;/p&gt;
 &lt;/div&gt;
 
@@ -623,7 +629,7 @@ of adventure. Now, this is Europe after all, a highly populated area. I expect m
 arduous challenges will be finding rural camping spots (I hope to eat these words).&lt;/p&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
-&lt;p&gt;Here's an interactive map of the route I'll be following along the rivers:&lt;/p&gt;
+&lt;p&gt;Here&#39;s an interactive map of the route I&#39;ll be following along the rivers:&lt;/p&gt;
 &lt;iframe src=&quot;http://elusivetruth.net/map/index.html?lat=48&amp;amp;lng=14&amp;amp;zoom=5&quot; style=&quot;margin: 0; padding:0; border: none; width: 100%; height: 450px; overflow: hidden;&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;My inland waterway route across Europe &lt;a href=&quot;http://elusivetruth.net/map.html&quot; target=&quot;_blank&quot; title=&quot;Alantic to Black Sea by Inland Waterways&quot;&gt;(larger map)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -680,7 +686,7 @@ and “Solitude” respectively.&lt;/p&gt;
    <content type="html">&lt;div class=&quot;caption&quot;&gt;
 &lt;span&gt;
 &lt;a href=&quot;http://photos.elusivetruth.net/Ireland/An-Irish-November-2012/27318104_Fm8bTt#!i=2296132769&amp;amp;k=LMZKh3D&amp;amp;lb=1&amp;amp;s=A&quot; title=&quot;Lonely Hound&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Ireland/An-Irish-November-2012/i-LMZKh3D/0/L/IMG_20121110_153511_v1-L.jpg&quot; title=&quot;Lonely Hound&quot; alt=&quot;Lonely Hound&quot; /&gt;&lt;/a&gt;
-&lt;p&gt;This Irish fox hound doesn't care about any of this.&lt;/p&gt;
+&lt;p&gt;This Irish fox hound doesn&#39;t care about any of this.&lt;/p&gt;
 &lt;/span&gt;
 &lt;/div&gt;
 
@@ -846,7 +852,7 @@ values.&lt;/p&gt;
 homelessness, material minimalism, and radical autonomy is what everyone should
 want in life, but those three principles are what make me happy (for now at
 least). Yet, the notion of happiness and success we’re raised believing is the
-opposite of those principles&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+opposite of those principles&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;What &lt;em&gt;actually&lt;/em&gt; makes you happy? That’s what you should pursue and how you should measure
 success.&lt;/p&gt;
@@ -854,7 +860,7 @@ success.&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Where “we” is those of us in materialistic western societies.&lt;a href=&quot;#fnref:1&quot; rel=&quot;reference&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Where “we” is those of us in materialistic western societies. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -945,7 +951,7 @@ endanger of vanishing out from under us. It’s a mad dash to scribble down as
 much history and culture as we can before the Westernization of their identity
 is complete.&lt;/p&gt;
 
-&lt;!--- We can't possibly capture an entire history and culture ??  --&gt;
+&lt;!--- We can&#39;t possibly capture an entire history and culture ??  --&gt;
 
 &lt;p&gt;Yet, even as their stories are disappearing, they are still very much alive.
 They are living, breathing, animated creatures, that change slightly every time
@@ -1637,7 +1643,7 @@ Vilcabamba (Sacred Valley).&lt;/p&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
 &lt;img src=&quot;http://elusivetruth.net/uploads/2011/11/dan-vista.jpg&quot; title=&quot;View of Vilcabamba&quot; width=&quot;500&quot; /&gt;
-&lt;p&gt;View from my 'office' these past weeks. Photo by my friend &lt;a href=&quot;https://www.facebook.com/note.php?note_id=243678582361736&quot;&gt;Dan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;View from my &#39;office&#39; these past weeks. Photo by my friend &lt;a href=&quot;https://www.facebook.com/note.php?note_id=243678582361736&quot;&gt;Dan&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;She was right about the view.&lt;/p&gt;
@@ -2210,7 +2216,7 @@ My bike packed up, ready for an adventure. Bring it on world.&lt;/p&gt;
 
 &lt;p&gt;When people ask me why I’m always moving about, I usually respond with some excuse I cook up on the spot. “&lt;em&gt;Oh, well I’m trying to figure out where I want to settle down.&lt;/em&gt;” or “&lt;em&gt;I just enjoy the change in scenery.&lt;/em&gt;” Both true, but not the ultimate cause responsible for my nomadic tendencies. That would be the itch. Also known as wanderlust, though I prefer the term ‘itch’ to ‘wanderlust’ as it captures the peculiar tingling or irritating feeling wanderlust induces.&lt;/p&gt;
 
-&lt;p&gt;In &lt;a href=&quot;http://elusivetruth.net/2011/10/16/...and-we%27re-back.html&quot; title=&quot;...and we're back!&quot;&gt;my last update&lt;/a&gt;, I mentioned that the itch that began growing in Ecuador expected something more than a change from now familiar surroundings. In addition to the tingling sense telling me to move on, another tingling required adventure. It is difficult to describe, but I knew simply jumping across borders would not satisfy this compulsion.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&quot;http://elusivetruth.net/2011/10/16/...and-we%27re-back.html&quot; title=&quot;...and we&#39;re back!&quot;&gt;my last update&lt;/a&gt;, I mentioned that the itch that began growing in Ecuador expected something more than a change from now familiar surroundings. In addition to the tingling sense telling me to move on, another tingling required adventure. It is difficult to describe, but I knew simply jumping across borders would not satisfy this compulsion.&lt;/p&gt;
 
 &lt;p&gt;“&lt;em&gt;This is going to be awesome!&lt;/em&gt;”, I thought to myself, “&lt;em&gt;I am going to do something legendary,and have great stories when it’s over.&lt;/em&gt;”&lt;/p&gt;
 
@@ -2246,7 +2252,7 @@ My bike packed up, ready for an adventure. Bring it on world.&lt;/p&gt;
 
 &lt;div class=&quot;caption&quot;&gt;
 &lt;a href=&quot;http://www.flickr.com/photos/whatsteviesees/5197141917/&quot; title=&quot;Bearded Man by Stevie Benintende, on Flickr&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4084/5197141917_f2cc0c1b5f.jpg&quot; width=&quot;500&quot; alt=&quot;Bearded Man&quot; /&gt;&lt;/a&gt;
-&lt;p&gt;&quot;&lt;em&gt;There's no adventure left in the world! It's all used up.&lt;/em&gt;&quot;, cries the old grizzly man.&lt;/p&gt;
+&lt;p&gt;&quot;&lt;em&gt;There&#39;s no adventure left in the world! It&#39;s all used up.&lt;/em&gt;&quot;, cries the old grizzly man.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;All these sources remove the boldness and uncertainty from the equation. You can learn everything there is to know about a trip or destination by reading what others have done without even leaving your home. Moreover, the mere fact that countless people before you have trekked that trail, seen those ruins, or ridden through that country and then blogged about it, makes that undertaking decidedly less bold.&lt;/p&gt;
@@ -2341,14 +2347,14 @@ My bike packed up, ready for an adventure. Bring it on world.&lt;/p&gt;
 &lt;p&gt;The driver puts in a 90s dance mix, and the soul-searching strain of Haddaway’s “What is Love?” drifts above the raucous teenagers partying in the rear and the oppressive droning of the engine. &lt;/p&gt;
 
 &lt;div class=&quot;caption&quot;&gt;&lt;object style=&quot;height: 305px; width: 500px&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/0YXuq25BMVI?version=3&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://www.youtube.com/v/0YXuq25BMVI?version=3&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;500&quot; height=&quot;305&quot; /&gt;&lt;/object&gt;
-&lt;p&gt;Haddaway's &quot;What is Love&quot; for your blog sing-along pleasure&lt;/p&gt;
+&lt;p&gt;Haddaway&#39;s &quot;What is Love&quot; for your blog sing-along pleasure&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;As I begin to quietly sing along–&lt;em&gt;What is love?&lt;/em&gt;–I mentally take a step back and laugh at the absurdity of the situation–&lt;em&gt;Oh baby, don’t hurt me&lt;/em&gt;. Here I am, caught up in a huff about some minor transportation setbacks–&lt;em&gt;Don’t hurt me no more&lt;/em&gt;–while on my way back from a luxurious beach getaway where I spent more in a weekend than people in the villages we’re driving past make in a two weeks.&lt;/p&gt;
 
 &lt;p&gt;The sage words of my friend suddenly coalesced in my mind:&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;strong&gt;These aren't real problems.&lt;/strong&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;strong&gt;These aren&#39;t real problems.&lt;/strong&gt;&lt;/blockquote&gt;
 
 &lt;p&gt;Throughout all my travels, I’ve yet to encounter a truly dire setback, and I think I’ve had my share of memorable obstacles: getting H1N1 in Egypt, ending up 8 hours off-course in remote eastern Turkey after a 12hr bus ride, taking sketchy private “taxis” at 1am from a Jordanian port.&lt;/p&gt;
 
@@ -2462,7 +2468,7 @@ These two photos illustrate the large differences in regional style.&lt;/p&gt;
 
 &lt;p&gt;Another indication that I’m living in Quito, or at least begun to tire of my routine, is how agitated I felt last week with the desire to escape the city for several days. While the noise, traffic, and pollution in Quito aren’t near as bad as Cairo (where I lived for a year), they do take a toll on your mental state.&lt;/p&gt;
 
-&lt;div class=&quot;caption&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/guigz/412712855/&quot; title=&quot;Quito by Guillaume Lavaure, on Flickr&quot;&gt;&lt;img src=&quot;http://farm1.static.flickr.com/188/412712855_ba4bddd89d.jpg&quot; width=&quot;500&quot; height=&quot;333&quot; alt=&quot;Quito&quot; /&gt;&lt;/a&gt;&lt;p&gt;Quito isn't as tranquil as this photo would suggest. (by Guillaume Lavaure on Flickr)&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/guigz/412712855/&quot; title=&quot;Quito by Guillaume Lavaure, on Flickr&quot;&gt;&lt;img src=&quot;http://farm1.static.flickr.com/188/412712855_ba4bddd89d.jpg&quot; width=&quot;500&quot; height=&quot;333&quot; alt=&quot;Quito&quot; /&gt;&lt;/a&gt;&lt;p&gt;Quito isn&#39;t as tranquil as this photo would suggest. (by Guillaume Lavaure on Flickr)&lt;/p&gt;&lt;/div&gt;
 
 &lt;p&gt;On Thursday I decided I wanted to get out, so I began a semi-frantic search for somewhere to go. Via this great site called &lt;a href=&quot;http://www.couchsurfing.org&quot;&gt;Couch Surfing&lt;/a&gt; (a facebook-esque site for travelers—I’ll write more about it at some point), I met an American named Lindsay. She had a tent and the same itch to escape our urban confinement. We made our plans on Friday: check out a region high in the Andes mountains called Quilotoa, hike around, and camp somewhere if possible.&lt;/p&gt;
 
@@ -2540,7 +2546,7 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
 &lt;/p&gt;
 
 &lt;p&gt;We went fishing for and caught red-bellied piraña.
-&lt;a href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Amazon-Rainforest/25087862_XRWZb8#!i=2056153382&amp;k=7gcBSvj&amp;lb=1&amp;s=A&quot; title=&quot;Amazon JungleBen holding Kate's red-bellied piraña. Look at the blood red eyes and sharp teeth!&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Amazon-Rainforest/i-7gcBSvj/0/M/5818998789c6e1ac0230o-M.jpg&quot; title=&quot;Amazon JungleBen holding Kate's red-bellied piraña. Look at the blood red eyes and sharp teeth!&quot; alt=&quot;Amazon JungleBen holding Kate's red-bellied piraña. Look at the blood red eyes and sharp teeth!&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Amazon-Rainforest/25087862_XRWZb8#!i=2056153382&amp;k=7gcBSvj&amp;lb=1&amp;s=A&quot; title=&quot;Amazon JungleBen holding Kate&#39;s red-bellied piraña. Look at the blood red eyes and sharp teeth!&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Amazon-Rainforest/i-7gcBSvj/0/M/5818998789c6e1ac0230o-M.jpg&quot; title=&quot;Amazon JungleBen holding Kate&#39;s red-bellied piraña. Look at the blood red eyes and sharp teeth!&quot; alt=&quot;Amazon JungleBen holding Kate&#39;s red-bellied piraña. Look at the blood red eyes and sharp teeth!&quot;&gt;&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;We saw giant spiders, snakes, cockroaches, and other giant bugs straight out of a horror   film. 
@@ -2563,7 +2569,7 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
 
 &lt;p&gt;My words can&amp;#8217;t begin to describe all that went into the experience. The photos can do a slightly better job, but so much of the experience was un-capturable by camera. In the end, the total experience is a only a shared memory of those seven people you see above, which is a special, yet at the same time a somber fact. We came together for a short time, strangers from all over the world, shared intense and unforgettable moments, and then scattered back into the wind.&lt;/p&gt;
 
-&lt;div class='stb-images_box' &gt;&lt;a title=&quot;Amazon Rainforest Photos&quot; href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Amazon-Rainforest/25087862_XRWZb8&quot;&gt;Click here to view all photos&lt;/a&gt; (there are 6 pages total)&lt;/div&gt;
+&lt;div class=&#39;stb-images_box&#39; &gt;&lt;a title=&quot;Amazon Rainforest Photos&quot; href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Amazon-Rainforest/25087862_XRWZb8&quot;&gt;Click here to view all photos&lt;/a&gt; (there are 6 pages total)&lt;/div&gt;
 </content>
  </entry>
  
@@ -2615,7 +2621,7 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(It would appear I am somewhat wordy. 700 words in and I&amp;#8217;ve only just gotten to the jungle bit, so I am going to split this trip across multiple posts. Check back in a day or two for the sequel.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; I've posted the rest of the story, along with photos, &lt;a href=&quot;http://elusivetruth.net/2011/06/21/an-amazon-expedition-part-2.html&quot; title=&quot;An Amazon Expedition (part 2)&quot;&gt;in this update&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; I&#39;ve posted the rest of the story, along with photos, &lt;a href=&quot;http://elusivetruth.net/2011/06/21/an-amazon-expedition-part-2.html&quot; title=&quot;An Amazon Expedition (part 2)&quot;&gt;in this update&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -2655,7 +2661,7 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
    <id>http://elusivetruth.net/2011/06/04/journey-to-the-middle-of-the-world</id>
    <content type="html">&lt;p&gt;I took a day trip from Quito to the equator (from which Ecuador takes its name) with a very friendly British couple (Lewis and Sara). &lt;/p&gt;
 
-&lt;div class='stb-images_box' style=&quot;text-align:center&quot;&gt;&lt;a title=&quot;Ecuador: Middle of the World&quot; href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Middle-of-the-World/25087816_385sxd&quot;&gt;Click here to view all photos&lt;/a&gt;&lt;/div&gt;
+&lt;div class=&#39;stb-images_box&#39; style=&quot;text-align:center&quot;&gt;&lt;a title=&quot;Ecuador: Middle of the World&quot; href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Middle-of-the-World/25087816_385sxd&quot;&gt;Click here to view all photos&lt;/a&gt;&lt;/div&gt;
 
 &lt;p&gt;Apparently the equator makes it possible (or easier) to balance an egg, because of the opposing forces. In fact, the guide claimed all sorts of things are different at the equator: our weight, our strength, the direction water spirals, etc. I&amp;#8217;m quite skeptical of all these claims, though I did manage to balance an egg on a nail.&lt;/p&gt;
 </content>
@@ -2737,7 +2743,7 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
 
 &lt;p&gt;
 
-&lt;a href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Quito/25087963_kLv8MR#!i=2056161703&amp;k=WLNL4ns&amp;lb=1&amp;s=A&quot; title=&quot;Ecuador: All the clothing items I'm bringing&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Quito/i-WLNL4ns/0/M/57693831805111b87542o-M.jpg&quot; title=&quot;Ecuador: All the clothing items I'm bringing&quot; alt=&quot;Ecuador: All the clothing items I'm bringing&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Quito/25087963_kLv8MR#!i=2056161703&amp;k=WLNL4ns&amp;lb=1&amp;s=A&quot; title=&quot;Ecuador: All the clothing items I&#39;m bringing&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Quito/i-WLNL4ns/0/M/57693831805111b87542o-M.jpg&quot; title=&quot;Ecuador: All the clothing items I&#39;m bringing&quot; alt=&quot;Ecuador: All the clothing items I&#39;m bringing&quot;&gt;&lt;/a&gt;
 
 &lt;/p&gt;
 
@@ -2746,7 +2752,7 @@ Exhausted, but full and slightly tipsy on our way back to Zumbahua&lt;/p&gt;
 &lt;p&gt;Doing laundry every night or every other night becomes a necessity when you pack like this. A relaxed self esteem is also required, as you&amp;#8217;re probably not going to look very fashionable and people will definitely notice you wearing the same clothes day after day. &lt;/p&gt;
 
 &lt;p&gt;
-&lt;a href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Quito/25087963_kLv8MR#!i=2056161735&amp;k=jwSjDhp&amp;lb=1&amp;s=A&quot; title=&quot;Ecuador: All the non-clothing items I'm bringing&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Quito/i-jwSjDhp/0/M/5768843811e7bb812dd2o-M.jpg&quot; title=&quot;Ecuador: All the non-clothing items I'm bringing&quot; alt=&quot;Ecuador: All the non-clothing items I'm bringing&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Quito/25087963_kLv8MR#!i=2056161735&amp;k=jwSjDhp&amp;lb=1&amp;s=A&quot; title=&quot;Ecuador: All the non-clothing items I&#39;m bringing&quot;&gt;&lt;img src=&quot;http://photos.elusivetruth.net/Ecuador/Ecuador-Quito/i-jwSjDhp/0/M/5768843811e7bb812dd2o-M.jpg&quot; title=&quot;Ecuador: All the non-clothing items I&#39;m bringing&quot; alt=&quot;Ecuador: All the non-clothing items I&#39;m bringing&quot;&gt;&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;The non-clothes supplies are fairly standard travelers gear: travel pouch, guidebook, clothesline, drain plug, soap, music device, flashlight, water bottle, lots of zip-loc bags, rubber bands, watch, notebooks and pens, sewing kit, and pack towel. Originally I wanted to avoid bringing a computer, opting instead to store my files on a small USB key, but when I decided I was going to work while traveling I was forced to bring a small netbook computer.&lt;/p&gt;

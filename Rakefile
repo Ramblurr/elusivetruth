@@ -5,7 +5,7 @@ require 'rubygems'
 namespace :site do
   desc "Generate blog files"
   task :generate do
-      system "ejekyll"
+      system "ejekyll build"
   end
 
   desc "Init gh temp repo"
