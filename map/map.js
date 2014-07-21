@@ -58,6 +58,7 @@ function main() {
             native_map.scrollWheelZoom.disable();
             native_map.boxZoom.disable();
             native_map.keyboard.disable();
+            native_map.tap.disable();
         }
         L.control.pan({position:'topleft'}).addTo(native_map);
         L.control.zoom({position:'topleft'}).addTo(native_map);
