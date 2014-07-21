@@ -29,11 +29,18 @@ function main() {
             params.zoom = 6;
        }
     }
+    var travel_url = 'http://elusivetruth.cartodb.com/api/v2/viz/d8b9da38-0a4d-11e3-8c39-3085a9a956e8/viz.json';
+    var route_url = 'http://elusivetruth.cartodb.com/api/v2/viz/fe3bc0aa-10e1-11e4-87db-0edbca4b5057/viz.json';
+
+    var vis_url = travel_url;
+    if(params.route) {
+       vis_url = route_url;
+    }
 
     var options = {
         center: [params.lat || 20, params.lng || 0],
         zoom: params.zoom || 3,
-        zoomControl: true,
+        zoomControl: false,
         loaderControl: false,
         infowindow: true,
         shareable: false,
@@ -41,10 +48,14 @@ function main() {
         searchControl: false
     };
 
-    var travel_url = 'http://elusivetruth.cartodb.com/api/v2/viz/d8b9da38-0a4d-11e3-8c39-3085a9a956e8/viz.json';
-    cartodb.createVis('map', travel_url, options).done(function(vis, layers) {
-
+        cartodb.createVis('map', vis_url, options).done(function(vis, layers) {
+        var isMobile = window.innerWidth <= 480 ? true : false;
         native_map = vis.getNativeMap();
+        if(isMobile) {
+            native_map.dragging.disable();
+        }
+        L.control.pan({position:'topleft'}).addTo(native_map);
+        L.control.zoom({position:'topleft'}).addTo(native_map);
         // there are two layers, base layer and points layer
         var route_layer = layers[1].getSubLayer(0);
         var point_layer = layers[1].getSubLayer(1);
