@@ -53,6 +53,11 @@ function main() {
         native_map = vis.getNativeMap();
         if(isMobile) {
             native_map.dragging.disable();
+            native_map.touchZoom.disable();
+            native_map.doubleClickZoom.disable();
+            native_map.scrollWheelZoom.disable();
+            native_map.boxZoom.disable();
+            native_map.keyboard.disable();
         }
         L.control.pan({position:'topleft'}).addTo(native_map);
         L.control.zoom({position:'topleft'}).addTo(native_map);
